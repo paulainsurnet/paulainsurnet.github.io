@@ -1,0 +1,235 @@
+[
+    {
+        "nombre": "D&O",
+        "principal": "yes",
+        "descripcion": "El seguro de RC para Administradores y Directivos protege al directivo, su patrimonio y a la sociedad frente a reclamaciones de terceros (proveedores, acreedores, empleados, accionistas…) derivadas de sus decisiones empresariales.",
+        "paraQuien": "Dirigido a Gerentes, Directivos, Consejeros o Administradores de empresas que busquen garantizar su responsabilidad personal y proteger su patrimonio frente a reclamaciones de terceros (proveedores, acreedores, empleados, accionistas…) derivadas de sus decisiones empresariales. <br> <br> El tomador de la póliza debe ser la empresa.",
+        "porQue": "<ul><li>Reclamaciones contra directivos.</li><li>Reclamaciones contra la sociedad.</li><li>Gastos de defensa.</li></ul>",
+        "coberturasDestacadas": "Dirigido a Gerentes, Directivos, Consejeros o Administradores de empresas que busquen garantizar su responsabilidad personal y proteger su patrimonio frente a reclamaciones de terceros (proveedores, acreedores, empleados, accionistas…) derivadas de sus decisiones empresariales. <br> <br> El tomador de la póliza debe ser la empresa.",
+        "casoReal": "El administrador de una empresa decide construir un nuevo almacén para ampliar el negocio. Debido a una falta de diligencia en la obtención de información, los costes sobrepasaron el presupuesto del proyecto que el administrador había presentado a los socios, y éstos le reclaman el perjuicio sufrido. <br> <br> Una RC de Administradores y Directivos asumiría la defensa del administrador y la indemnización a la que resulte condenado.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "qL4gDcK0",
+        "identificador": "1",
+        "imagenes": [
+            "assets/img/productos/DO.svg"
+        ]
+    },
+    {
+        "nombre": "Cyber",
+        "principal": "yes",
+        "descripcion": "El seguro de Ciberriesgo asegura a las empresas ante los perjuicios económicos que puedan sufrir frente a un incidente en sus sistemas informáticos.",
+        "paraQuien": "Cualquier empresa, no importa su tamaño o actividad, es vulnerable de sufrir ataques cibernéticos tanto internos como externos. <br> <br> España es el tercer país del mundo que más ataques informáticos recibe. En 2016, se detectaron 115.000 incidentes de los cuales el 70% fueron dirigidos contra pequeñas y medianas empresas. El impacto empresarial que tuvo fue de más de 80.000 víctimas.",
+        "porQue": "<ul><li>La interrupción total o parcial de los sistemas informáticos puede tener un impacto devastador en el negocio e incluso llegar a  paralizarlo.</li><li>Las reclamaciones de terceros vinculadas a temas informáticos suponen costes cada vez más altos.</li><li>El impacto a la imagen y reputación de una empresa víctima de un ciberataque puede ser incalculable.</li></ul>",
+        "coberturasDestacadas": "<ul><li>Fuga de datos</li><li>Fallo de seguridad</li><li>Errores humanos</li><li>Extorsión</li><li>Interrupción del negocio</li></ul>",
+        "casoReal": "Un empleado que trabaja en una cadena de ópticas recibió un correo alegando que le habían cazado excediendo el límite de velocidad. Por este motivo, el empleado hizo clic en un enlace para ver la supuesta foto de la infracción. Al poco tiempo, recibe un correo explicando que su sistema había sido infectado con un virus que encriptaba todos los archivos del servidor de todas las clínicas. Los datos intervenidos contenían información de pacientes y el software necesario para el funcionamiento del negocio. <br> <br> Los delincuentes solicitaban más de 3.000€ en Bitcoins para liberar sus datos, pero nuestros asesores se involucraron en las negociaciones. Finalmente, sólo se pudo recuperar el 90% de los archivos y el cliente tuvo que contratar una empresa informática externa para recuperar el restante. Se cubrieron los costes por interrupción del negocio ya que estuvieron varios días sin poder dar servicio a sus clientes. Costes cubiertos: 60.000€.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "idhfIoIN",
+        "identificador": "2",
+        "imagenes": [
+            "assets/img/productos/cyber.svg"
+        ]
+    },
+    {
+        "nombre": "RC Profesional",
+        "principal": "yes",
+        "descripcion": "El seguro de RC Profesional da cobertura a la responsabilidad derivada de errores, omisiones o negligencias en la ejecución de la actividad profesional que generan un perjuicio económico, personal o material a un tercero.",
+        "paraQuien": "El seguro de RC Profesional va dirigido a profesionales, empresas o autónomos, que desean estar protegidos por los daños que pudieran causar, teniendo en cuenta las particularidades de cada profesión y riesgos a los que se exponen.",
+        "porQue": "Ninguna profesión, por improbable que parezca, es ajena a los contratiempos. Por este motivo, el seguro de RC profesional garantiza que los errores que pueda cometer quedaran cubiertos por la cobertura de la póliza. <br> <br> Estando bajo la cobertura del seguro de RC Profesional, podrá centrarse en su negocio manteniendo los riesgos profesionales bajo control, para que ni usted ni su empresa se hunda en caso de ser demandado por un tercero",
+        "coberturasDestacadas":"<ul><li>Negligencia profesional</li><li>Infidelidad de empleados</li><li>Pérdida de documentos</li><li>Gastos de defensa</li><li>Infracción de derechos de propiedad intelectual o industrial</li></ul>",
+        "casoReal": "Un centro de acupuntura es demandado por unos clientes por supuesta negligencia, porque han contraído una infección tras una sesión en el centro. Tras investigar las causas del incidente, se detecta un fallo en la máquina de esterilización. Por este motivo, el dueño del negocio deberá indemnizar a sus clientes con la cantidad demandada. <br> <br> ¿Cómo afrontar esta crisis? La solución es sencilla, si cuentas con la protección adecuada. Un seguro de RC profesional con los gastos de la defensa legal, así como con la indemnización correspondiente, en el caso de que tuvieras que afrontarla.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "O1GLjMI6",
+        "identificador": "3",
+        "imagenes": [
+            "assets/img/productos/rcProfesional.svg"
+        ]
+    },
+    {
+        "nombre": "Daños Materiales",
+        "principal": "no",
+        "descripcion": "El seguro de Daños Materiales es un producto que da cobertura a los daños producidos en las propias instalaciones de la empresa, ya sea en propiedad o en alquiler.",
+        "paraQuien": "Oficinas y despachos profesionales, negocios minoristas/comercio, y una infinidad de negocios que disponen de un espacio físico donde desarrollar la actividad. <br> <br> Los daños que se puedan producir en estos espacios pueden ser difíciles de asumir. El seguro de Daños Materiales va dirigido a aquellos propietarios o inquilinos que quieren minimizar los perjuicios sufridos tras un incidente que afecte a los elementos materiales de su empresa.",
+        "porQue": "Cualquier Oficina/Local tiene el riesgo de sufrir una fuga de agua, un robo o una subida de tensión que provoque daños eléctricos, entre otras cosas. Además, puede haber situaciones que un incidente de este tipo te impida realizar la actividad de forma normal, provocando una pérdida de beneficios. <br> <br> Contratando el seguro de Daños Materiales se minimiza el perjuicio sufrido, que en determinadas situaciones podría ser grave.",
+        "coberturasDestacadas": "<ul><li>Incendio</li><li>Daños por agua</li><li>Daños a equipos</li><li>Robo y atraco</li><li>Pérdidas de beneficios</li></ul>",
+        "casoReal": "Un despacho de abogados sufre un escape de agua en el baño que provoca daños en el suelo de madera de uno de los despachos del asociado. Pese al elevado coste de su reposición, el seguro de daños materiales cubriría la sustitución del suelo de toda la Oficina para mantener la coherencia estética en toda la superficie.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "VxWf4P",
+        "identificador": "4",
+        "imagenes": [
+            "assets/img/productos/danosMateriales.svg"
+        ]
+    },
+    {
+        "nombre": "Keyman",
+        "principal": "no",
+        "descripcion": "El Seguro de Vida Key Man protege a la empresa ante pérdidas financieras derivadas de la muerte o incapacidad de la persona clave del negocio.",
+        "paraQuien": "Todas las compañías, desde empresas multinacionales hasta las pequeñas start-ups, tienen miembros entre su personal que son imprescindibles para las mismas.",
+        "porQue": "Este contrato ofrecerá una indemnización monetaria si al asegurado le sucede cualquier siniestro cubierto en la póliza. De este modo, la empresa dispondrá de recursos para poder continuar con sus operaciones y cubrir el déficit de conocimiento y productividad mientras se encuentra en búsqueda de un sustituto.",
+        "coberturasDestacadas": "<ul><li>Disminuir el impacto económico causado a la empresa por la invalidez o fallecimiento del asegurado</li><li>Pérdida de clientes</li><li>Impago de créditos concedidos a empresas y/o empresarios</li><li>Descenso de la actividad</li><li>Pérdida de Know how</li></ul>",
+        "casoReal": "La empresa X tiene un contrato de seguro Key man por el que se asegura al director de estrategias de marketing. <br> <br> De camino al trabajo este sufre un accidente y fallece. <br> <br> La aseguradora indemnizará a la compañía la cantidad acordada para de esta manera reducir el impacto económico que pudiera derivarse de este suceso hasta encontrar un sustituto.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "ZbBwG1",
+        "identificador": "5",
+        "imagenes": [
+            "assets/img/productos/keyman.svg"
+        ]
+    },
+    {
+        "nombre": "RC General",
+        "principal": "no",
+        "descripcion": "El seguro de RC General da cobertura a la responsabilidad frente a demandas de terceros por daños personales y materiales cometidos en el desarrollo de una actividad.",
+        "paraQuien": "Dirigido a aquellas empresas que quieran ver cubierta la responsabilidad extracontractual en la que puedan incurrir en virtud de los artículos 1902 y siguientes del Código Civil.",
+        "porQue": "El Asegurador asumirá, dentro de los límites pactados en la póliza, las consecuencias pecuniarias derivadas de las reclamaciones debidas a daños materiales, daños personales y perjuicios patrimoniales derivados de dichos daños, causados involuntariamente a terceros y comprometiendo la responsabilidad civil extracontractual del Asegurado en el ejercicio de las actividades profesionales declaradas por la empresa asegurada.",
+        "coberturasDestacadas": "<ul><li>RC Inmobiliaria. Se deriva de la propiedad o arrendamiento de la edificación en que se desarrolla la actividad causante del daño.</li><li>RC de Explotación. Daños causados a terceros en el ejercicio de actividades que le son propias.</li><li>RC Subsidiaria. Perjuicios ocasionados a terceros como consecuencia de un daño generado por uno de los subcontratados.</li><li>RC de Productos. Daños que pueda causar el producto obtenido, como consecuencia de la actividad empresarial, después de su entrega.</li><li>RC Patronal. Reclamaciones de sus trabajadores contra usted por accidentes laborales llevados a cabo durante la actividad asegurada.</li></ul>",
+        "casoReal": "Una empresa debe transportar unos productos a su cliente. El transportista ha salido con prisa y no ha sujetado bien la mercancía. Durante el trayecto se abre el maletero y la mercancía daña tanto material urbano como algunos vehículos que están en circulación.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "ZOkibqpF",
+        "identificador": "6",
+        "imagenes": [
+            "assets/img/productos/rcGeneral.svg"
+        ]
+    },
+    {
+        "nombre": "Salud Colectivos",
+        "principal": "no",
+        "descripcion": "La modalidad de Salud Colectivos se lleva a cabo mediante la Retribución Flexible. Es un sistema retributivo que le permite a los empleados de una empresa destinar parte de su sueldo a contratar una serie de servicios, generalmente, a un coste inferior de lo que está establecido en el mercado y con una ventaja fiscal.",
+        "paraQuien": "Este sistema está dirigido a todo el personal de una empresa. <br> <br> En función de las características y necesidades de cada empleado, podrá elegir qué partida es la que más le conviene y, por lo tanto, destinar parte de su salario a ello.",
+        "porQue": "La retribución flexible tiene muchas ventajas. Entre ellas, podemos encontrar: <ul><li>La empresa no incurre en ningún tipo de coste económico.</li><li>Aumenta la retribución neta de los empleados sin aumentar los costes salariales.</li><li>Ayuda a la conciliación familiar.</li><li>Supone un ahorro para los empleados. Accediendo a servicios con ventajas fiscales, que permiten a final de mes percibir un salario neto mayor</li><li>Mejora la imagen de la empresa ofreciendo servicios que otra empresa puede no estar ofreciendo y, por lo tanto, aumentando la buena percepción que tienen los trabajadores sobre la empresa.</li><li>Favorece la retención de talento. La retribución flexible puede ser un punto clave a tener en cuenta a la hora de decantarse por una empresa u otra.</li><li>Es un plan voluntario, puede adherirse a él quien lo prefiera y elegir las partidas que más le convengan.</li></ul>",
+        "coberturasDestacadas": "El empleado puede destinar hasta un 30% de su salario bruto anual en los siguientes servicios, con los límites y excepciones establecidos en la ley (LIRPF). De manera general: <ul><li>RestaurantE Pass: Hasta 11 € diarios</li><li>Transporte Pass: Hasta 1.500 € en servicios de transporte público</li><li>Guardería Pass: 100% exento de IRPF</li><li>Formación Pass: 100% exento de IRPF</li><li>Seguro de salud: 500€ por beneficiario</li></ul>",
+        "casoReal": "<img src='assets/img/productos/coberturasSalud.svg' class='responsive' />",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "g0BZ7tO8",
+        "identificador": "7",
+        "imagenes": [
+            "assets/img/productos/saludColectivos.svg"
+        ]
+    },
+    {
+        "nombre": "Travel Flex",
+        "principal": "no",
+        "descripcion": "El seguro de asistencia TravelFlex te da la tranquilidad necesaria frente a aquellos incidentes que puedan ocurrir durante el viaje programado, desde la pérdida del equipaje hasta lesiones o enfermedad.",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "Q27BS73p",
+        "identificador": "8",
+        "imagenes": [
+            "assets/img/productos/travelFlex.svg"
+        ]
+    },
+    {
+        "nombre": "Accidentes convenio",
+        "principal": "no",
+        "descripcion": "El seguro de Accidentes Convenio cubre a todos los trabajadores que estén dados de alta en el TC2. Dependiendo del convenio laboral se fijan las garantías y los capitales asegurados.",
+        "paraQuien": "El seguro de Accidentes Convenio va dirigido a aquellas empresas con trabajadores dados de alta y sujetos a un convenio laboral que exija la contratación de un seguro cubra a sus trabajadores con unas determinadas garantías.",
+        "porQue": "Es un seguro obligatorio por ley para cualquier empresa regulada por un convenio laboral específico. Además, es imprescindible para poder proteger a tus empleados ante las consecuencias económicas de un accidente, fallecimiento o invalidez.",
+        "coberturasDestacadas": "<ul><li>Fallecimiento por accidente.</li><li>Invalidez absoluta por accidente.</li><li>Fallecimiento por enfermedad.</li></ul>",
+        "casoReal": "Un empleado de una empresa de construcción, por accidente sufre una caída que le provoca una invalidez. El convenio de construcción indica que en caso de invalidez por accidente laboral, el trabajador tiene derecho a una indemnización de 49.000€. El seguro de accidentes convenio cubriría el pago de esta indemnización.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "X6kgjm2a",
+        "identificador": "9",
+        "imagenes": [
+            "assets/img/productos/accidentesConvenio.svg"
+        ]
+    },
+    {
+        "nombre": "Transporte mercancías",
+        "principal": "no",
+        "descripcion": "El Seguro de Transportes cubre la mercancía desde que se recoge y se carga en el medio de transporte hasta su entrega al destinatario final. Puedes contratarlo tanto si eres cargador como intermediario, transportista u organizador de exposiciones de arte.",
+        "paraQuien": "Lo recomendamos para cualquier empresa cuya actividad económica tenga que ver con la manipulación y distribución de mercancías, ya sean estas peligrosas o no. Puedes contratarlo tanto si eres cargador como intermediario, transportista u organizador de exposiciones de arte, entre otros.",
+        "porQue": "Toda empresa que distribuya, exporte o importe mercancías tiene que asegurarse de que sus productos lleguen en buenas condiciones al destinatario. <br> <br> Este seguro garantiza la cobertura en el traslado y la posibilidad de recibir, en caso de que se produzcan daños en el trayecto o algún retraso en el envío ajeno a la empresa, una indemnización económica, atenuando así los daños sufridos.",
+        "coberturasDestacadas": "<ul><li>Incendio</li><li>Accidente del medio de transporte</li><li>Robo</li><li>Roturas</li><li>Carga y descarga</li></ul>",
+        "casoReal": "Una empresa de distribución tenía que entregar 1.000 figuras de cerámica. Desafortunadamente, en el trayecto, el 20% de las figuras se rompieron o agrietaron. Sin embargo, contaban con la cobertura de roturas en su seguro de transporte, lo que cubrió los daños sufridos durante el trayecto.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "wb3G37Lm",
+        "identificador": "10",
+        "imagenes": [
+            "assets/img/productos/transporteMercancias.svg"
+        ]
+    },
+    {
+        "nombre": "Flota de vehículos",
+        "principal": "no",
+        "descripcion": "El seguro de flotas de vehículo cubre los daños causados a personas o bienes de un tercero derivado de un incidente de circulación de los que sea responsable vehículo incluido en flota. Dirigido a empresas que, para desarrollar su actividad es necesario el uso de vehículos a motor. Permite tener todos los vehículos asegurados en una póliza mejorando la gestión de la flota.",
+        "paraQuien": "Este seguro está dirigido tanto a empresas, sea cual sea su tamaño, como a autónomos. <br> <br> Se pueden asegurar todos los vehículos de tu negocio de forma conjunta, sin renunciar a las coberturas más completas. Turismos, furgonetas o vehículos pesados, entre otros. Se considerará como flota a, mínimo, un conjunto de 5 vehículos.",
+        "porQue": "Su objetivo es tener todos los vehículos asegurados en una misma póliza, logrando así facilitar la gestión de la flota.",
+        "coberturasDestacadas": "<ul><li>Responsabilidad Civil Obligatoria</li><li>Responsabilidad Civil Voluntaria</li><li>Defensa y Reclamaciones</li><li>Accidentes del conductor</li></ul>",
+        "casoReal": "Un empleado de tu empresa conduce uno de los coches incluidos en la flota y cuando se dirigía a visitar a un cliente para presentarle las últimas novedades en productos, colisiona con un vehículo que estaba estacionado, dañando la puerta del lado derecho. <br> <br> En este caso, los daños causados quedan cubiertos gracias a la cobertura de responsabilidad civil de la póliza contratada.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "I575TmjX",
+        "identificador": "11",
+        "imagenes": [
+            "assets/img/productos/flotaVehiculos.svg"
+        ]
+    },
+    {
+        "nombre": "Responsabilidad medioambiental",
+        "principal": "no",
+        "descripcion": "El seguro de Responsabilidad Medioambiental cubre los daños y perjuicios que produzcan un deterioro en el medioambiente y tengan su origen en las instalaciones y/o responsabilidad de la empresa asegurada.",
+        "paraQuien": "Cualquiera que lleve a cabo una actividad económica está sujeta a esta responsabilidad. En especial, recomendamos este producto para aquellas empresas que manipulen y/o transporten mercancías peligrosas que puedan dañar el medioambiente. <p style='padding-left: 400px;'><button data-tf-popup='o5RZ9Ane' data-tf-size='50' style='all:unset;font-family:Helvetica,Arial,sans-serif;display:inline-block;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background-color:#485172;color:#FFFFFF;font-size:20px;border-radius:25px;padding:0 33px;font-weight:bold;height:50px;cursor:pointer;line-height:50px;text-align:center;margin:0;text-decoration:none;'>¡Compruébalo!</button><script src='//embed.typeform.com/next/embed.js'></script></p>",
+        "porQue": "El cometido principal de este producto es el de cumplir con el principio de prevención y de que «quien contamina paga», de acuerdo con el artículo 45 de la Constitución Española. <br> <br> Según la Ley 26/2007 de Responsabilidad Medioambiental, se establece una clasificación por nivel de prioridad de aquellas actividades que deben tener una garantía financiera para hacer frente a los costes derivados de tomar las medidas de prevención, evitación y reparación de los daños medioambientales. Dicha garantía puede ser en forma de aval, reserva técnica o póliza de seguro.",
+        "coberturasDestacadas": "<ul><li>Gastos de prevención</li><li>Gastos de evitación</li><li>Gastos de limpieza</li><li>Gastos de defensa</li><li>RC por contaminación accidental</li></ul>",
+        "casoReal": "Un camión que lleva a cabo el transporte de mercancías peligrosas vierte uno de los contenedores en un río. En este caso, no existe una persona física o jurídica afectada. <br> <br> Nos encontramos ante una responsabilidad medioambiental en la que será la Administración Pública la que nos reclame. Gracias a este seguro, los gastos de defensa y limpieza que se deriven quedarán cubiertos.",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "bCKJdqdN",
+        "identificador": "12",
+        "imagenes": [
+            "assets/img/productos/responsabilidadMedioambiental.svg"
+        ]
+    },
+    {
+        "nombre": "Protección directivos",
+        "principal": "no",
+        "descripcion": "El seguro de protección de directivos es un seguro de tipo personal que se encarga de proteger de forma integral al asegurado de riesgos como: accidentes personales, cancelación de saldos pendientes, ...",
+        "paraQuien": "El seguro está encaminado a proteger a Altos Cargos, Administradores y Directivos de diferentes empresas.",
+        "porQue": "Son muchas las ventajas de las que puede disfrutar una persona si contrata el seguro: <ul><li>Es un seguro muy completo con un amplio abanico de coberturas y capitales asegurados adaptados a las necesidades del asegurado.</li><li>Cobertura 24 horas y con ámbito mundial.</li><li>Asesoramiento directo y personalizado por parte de un gran equipo de expertos.</li><li>Dispone de unas coberturas complementarias de Responsabilidad de Administradores y Directivos (D&O).</li><li>Existe la posibilidad de elegir el capital que mejor se adapte a sus necesidades.</li></ul> Muchas veces las empresas tienen trabajadores que son piezas fundamentales para el desarrollo de la actividad. Por ello, se podría ofrecer este tipo de seguro como un beneficio o plus por su trabajo de forma que tenga más razones por las que quedarse en la empresa, sintiéndose así más valorado.",
+        "coberturasDestacadas": "<ul><li>Accidentes personales</li><li>Protección de estudios para hijos menores</li><li>Cancelación de saldos pendientes</li><li>Asistencia psicológica</li><li>Asistencia de viaje</li></ul> <img src='assets/img/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
+        "casoReal": "Un directivo sufrió un accidente automovilístico en un viaje de negocios, ante el terrible accidente tuvo que ir al hospital. Días después, tras darle el alta, se vio tan afectado que necesitaba asistencia psicológica. El seguro de Protección de directivos le cubrió tanto la asistencia en su viaje de negocios como el accidente y la asistencia psicológica.",
+        "tipo": "seguro",
+        "modalidades": "assets/img/productos/modalidadesProteccionDirectivos.svg",
+        "typeForm": "g2vk3uv0",
+        "identificador": "13",
+        "imagenes": [
+            "assets/img/productos/proteccionDirectivos.svg"
+        ]
+    },
+    {
+        "nombre": "Flex Hotel",
+        "principal": "no",
+        "descripcion": "El seguro de asistencia TravelFlex te da la tranquilidad necesaria frente a aquellos incidentes que puedan ocurrir durante el viaje programado, desde la pérdida del equipaje hasta lesiones o enfermedad.",
+        "paraQuien": "",
+        "porQue": [
+            "",
+            ""
+        ],
+        "coberturasDestacadas": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "casoReal": "",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "Q27BS73p",
+        "identificador": "14",
+        "imagenes": [
+            "assets/img/productos/flexHotel.svg"
+        ]
+    }
+]
