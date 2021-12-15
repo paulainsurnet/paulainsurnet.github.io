@@ -206,5 +206,22 @@
         "imagenes": [
             "assets/img/productos/proteccionDirectivos.svg"
         ]
+    },
+    {
+        "nombre": "",
+        "principal": "no",
+        "descripcion": "",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "",
+        "modalidades": "",
+        "typeForm": "",
+        "identificador": "14",
+        "imagenes": [
+            ""
+        ]
     }
+
 ]
