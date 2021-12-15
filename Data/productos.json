@@ -206,30 +206,5 @@
         "imagenes": [
             "assets/img/productos/proteccionDirectivos.svg"
         ]
-    },
-    {
-        "nombre": "Flex Hotel",
-        "principal": "no",
-        "descripcion": "En una actualidad tan cambiante como la actual, es imperativo transformar nuestros productos para dar respuesta a las necesidades concretas de nuestros clientes. Para estos supuestos ofrecemos Flex Hotel, para que la única preocupación sea lo verdaderamente importante, dejando todo lo demás en nuestras manos.",
-        "paraQuien": "",
-        "porQue": [
-            "",
-            ""
-        ],
-        "coberturasDestacadas": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        "casoReal": "",
-        "tipo": "seguro",
-        "modalidades": "",
-        "typeForm": "Q27BS73p",
-        "identificador": "14",
-        "imagenes": [
-            "assets/img/productos/flexHotel.svg"
-        ]
     }
 ]
