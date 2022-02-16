@@ -1,21 +1,5 @@
 [
     {
-        "nombre": "CORE4X1",
-        "principal": "yes",
-        "descripcion": "¿Por qué contratar 4 pólizas cuando lo puedes tener todo en 1?<br>Responsabilidad Civil Administradotres y Directivos, D&0<br>Responsabilidad Civil Profesional<br>Responsabilidad Civil General<br>Cyber",
-        "paraQuien": "",
-        "porQue": "",
-        "coberturasDestacadas": "",
-        "casoReal": "",
-        "tipo": "seguro",
-        "modalidades": "",
-        "typeForm": "",
-        "identificador": "1",
-        "imagenes": [
-            "assets/img/productos/CORE4x1.svg"
-        ]
-    },
-    {
         "nombre": "D&O",
         "principal": "yes",
         "descripcion": "El seguro de RC para Administradores y Directivos protege al directivo, su patrimonio y a la sociedad frente a reclamaciones de terceros (proveedores, acreedores, empleados, accionistas…) derivadas de sus decisiones empresariales.",

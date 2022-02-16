@@ -1,5 +1,21 @@
 [
     {
+        "nombre": "CORE4X1",
+        "principal": "yes",
+        "descripcion": "¿Por qué contratar 4 pólizas cuando lo puedes tener todo en 1?<br>Responsabilidad Civil Administradotres y Directivos, D&0<br>Responsabilidad Civil Profesional<br>Responsabilidad Civil General<br>Cyber",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "seguro",
+        "modalidades": "",
+        "typeForm": "",
+        "identificador": "1",
+        "imagenes": [
+            "assets/img/productos/CORE4x1.svg"
+        ]
+    },
+    {
         "nombre": "D&O",
         "principal": "yes",
         "descripcion": "El seguro de RC para Administradores y Directivos protege al directivo, su patrimonio y a la sociedad frente a reclamaciones de terceros (proveedores, acreedores, empleados, accionistas…) derivadas de sus decisiones empresariales.",
@@ -10,7 +26,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "qL4gDcK0",
-        "identificador": "1",
+        "identificador": "2",
         "imagenes": [
             "assets/img/productos/DO.svg"
         ]
@@ -26,7 +42,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "idhfIoIN",
-        "identificador": "2",
+        "identificador": "3",
         "imagenes": [
             "assets/img/productos/cyber.svg"
         ]
@@ -42,7 +58,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "O1GLjMI6",
-        "identificador": "3",
+        "identificador": "4",
         "imagenes": [
             "assets/img/productos/rcProfesional.svg"
         ]
@@ -58,7 +74,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "VxWf4P",
-        "identificador": "4",
+        "identificador": "5",
         "imagenes": [
             "assets/img/productos/danosMateriales.svg"
         ]
@@ -74,7 +90,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "ZbBwG1",
-        "identificador": "5",
+        "identificador": "6",
         "imagenes": [
             "assets/img/productos/keyman.svg"
         ]
@@ -90,7 +106,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "ZOkibqpF",
-        "identificador": "6",
+        "identificador": "7",
         "imagenes": [
             "assets/img/productos/rcGeneral.svg"
         ]
@@ -106,7 +122,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "g0BZ7tO8",
-        "identificador": "7",
+        "identificador": "8",
         "imagenes": [
             "assets/img/productos/saludColectivos.svg"
         ]
@@ -122,7 +138,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "Q27BS73p",
-        "identificador": "8",
+        "identificador": "9",
         "imagenes": [
             "assets/img/productos/travelFlex.svg"
         ]
@@ -138,7 +154,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "X6kgjm2a",
-        "identificador": "9",
+        "identificador": "10",
         "imagenes": [
             "assets/img/productos/accidentesConvenio.svg"
         ]
@@ -154,7 +170,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "wb3G37Lm",
-        "identificador": "10",
+        "identificador": "11",
         "imagenes": [
             "assets/img/productos/transporteMercancias.svg"
         ]
@@ -170,7 +186,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "I575TmjX",
-        "identificador": "11",
+        "identificador": "12",
         "imagenes": [
             "assets/img/productos/flotaVehiculos.svg"
         ]
@@ -186,7 +202,7 @@
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "bCKJdqdN",
-        "identificador": "12",
+        "identificador": "13",
         "imagenes": [
             "assets/img/productos/responsabilidadMedioambiental.svg"
         ]
@@ -202,34 +218,26 @@
         "tipo": "seguro",
         "modalidades": "assets/img/productos/modalidadesProteccionDirectivos.svg",
         "typeForm": "g2vk3uv0",
-        "identificador": "13",
+        "identificador": "14",
         "imagenes": [
             "assets/img/productos/proteccionDirectivos.svg"
         ]
     },
     {
-        "nombre": "Flex Hotel",
+        "nombre": "",
         "principal": "no",
-        "descripcion": "El seguro de asistencia TravelFlex te da la tranquilidad necesaria frente a aquellos incidentes que puedan ocurrir durante el viaje programado, desde la pérdida del equipaje hasta lesiones o enfermedad.",
+        "descripcion": "",
         "paraQuien": "",
-        "porQue": [
-            "",
-            ""
-        ],
-        "coberturasDestacadas": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
+        "porQue": "",
+        "coberturasDestacadas": "",
         "casoReal": "",
-        "tipo": "seguro",
+        "tipo": "",
         "modalidades": "",
-        "typeForm": "Q27BS73p",
-        "identificador": "14",
+        "typeForm": "",
+        "identificador": "15",
         "imagenes": [
-            "assets/img/productos/flexHotel.svg"
+            ""
         ]
     }
+
 ]
