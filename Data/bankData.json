@@ -1,0 +1,80 @@
+[
+ {
+   "code": "2080",
+   "bankName": "ABANCA CORPORACION BANCARIA",
+   "bic": "CAGLESMM",
+   "city": "A Coruña"
+ },
+ {
+   "code": "0061",
+   "bankName": "BANCA MARCH",
+   "bic": "BMARES2M",
+   "city": "Palma"
+ },
+ {
+   "code": "0182",
+   "bankName": "BANCO BILBAO VIZCAYA ARGENTARIA",
+   "bic": "BBVAESMM",
+   "city": "Bilbao"
+ },
+ {
+   "code": "2100",
+   "bankName": "CAIXABANK",
+   "bic": "CAIXESBB",
+   "city": "Barcelona"
+ },
+ {
+   "code": "0081",
+   "bankName": "BANCO DE SABADELL",
+   "bic": "BSABESBB",
+   "city": "Sabadell"
+ },
+ {
+   "code": "0049",
+   "bankName": "BANCO SANTANDER",
+   "bic": "BSCHESMM",
+   "city": "Santander"
+ },
+ {
+   "code": "2038",
+   "bankName": "BANKIA",
+   "bic": "CAHMESMM",
+   "city": "Valencia"
+ },
+ {
+   "code": "1465",
+   "bankName": "ING BANK N.V.",
+   "bic": "INGDESMM",
+   "city": "Madrid"
+ },
+ {
+   "code": "2095",
+   "bankName": "KUTXABANK",
+   "bic": "BASKES2B",
+   "city": "Bilbao"
+ },
+ {
+   "code": "2103",
+   "bankName": "UNICAJA BANCO",
+   "bic": "UCJAES2M",
+   "city": "Málaga"
+ },
+ {
+   "code": "0128",
+   "bankName": "BANKINTER",
+   "bic": "BKBKESMM",
+   "city": "Madrid"
+ },
+ {
+   "code": "3058",
+   "bankName": "CAJAMAR CAJA RURAL",
+   "bic": "CCRIES2A",
+   "city": "Almería"
+ },
+ {
+   "code": "2085",
+   "bankName": "IBERCAJA BANCO S A",
+   "bic": "CAZRES2Z",
+   "city": "Zaragoza"
+ }
+]
