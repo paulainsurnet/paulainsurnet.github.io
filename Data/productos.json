@@ -28,7 +28,7 @@
         "typeForm": "",
         "identificador": "1",
         "imagenes": [
-            "assets/img/productos/CORE4x1.svg"
+            "assets/img/productos/RCInfluencers.svg"
         ]
     },
     {
@@ -44,7 +44,23 @@
         "typeForm": "",
         "identificador": "1",
         "imagenes": [
-            "assets/img/productos/CORE4x1.svg"
+            "assets/img/productos/RCAgentesInmobilarios.svg"
+        ]
+    },
+    {
+        "nombre": "CiberHoteles",
+        "principal": "yes",
+        "descripcion": "¿Por qué contratar 4 pólizas cuando lo puedes tener todo en 1?<br>Responsabilidad Civil Administradotres y Directivos, D&0<br>Responsabilidad Civil Profesional<br>Responsabilidad Civil General<br>Cyber",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "personalizado",
+        "modalidades": "",
+        "typeForm": "",
+        "identificador": "1",
+        "imagenes": [
+            "assets/img/productos/CiberHoteles.svg"
         ]
     },
     {
