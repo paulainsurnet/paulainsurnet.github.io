@@ -16,7 +16,7 @@
         ]
     },
     {
-        "nombre": "Influencers",
+        "nombre": "RC Influencer",
         "principal": "yes",
         "descripcion": "",
         "paraQuien": "",
@@ -33,7 +33,7 @@
         "url": ""
     },
     {
-        "nombre": "Inmobiliarias",
+        "nombre": "RC Agentes",
         "principal": "yes",
         "descripcion": "",
         "paraQuien": "",
@@ -47,10 +47,10 @@
         "imagenes": [
             "assets/img/productos/RCAgentesInmobiliarios.svg"
         ],
-        "url": ""
+        "url": "https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes"
     },
     {
-        "nombre": "CiberHoteles",
+        "nombre": "Ciber Hoteles",
         "principal": "yes",
         "descripcion": "",
         "paraQuien": "",
@@ -64,7 +64,7 @@
         "imagenes": [
             "assets/img/productos/CiberHoteles.svg"
         ],
-        "url": ""
+        "url": "https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles"
     },
     {
         "nombre": "D&O",
