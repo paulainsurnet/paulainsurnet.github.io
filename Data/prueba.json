@@ -206,8 +206,134 @@
         "identificador": "7",
         "imagenes": [
             "assets/img/productos/rcGeneral.svg"
-        ]
-    },
+        ],
+  "formulario": [
+          {
+            "paso": 1,
+            "preguntasPaso": [
+              {
+                "tipoPregunta":"selector",
+                "texto":"Actividad",
+                "posiblesValores": ["Consultor de agua",
+                  "Consultor de calidad",
+                  "Asesoría Fiscal"
+                ],
+                "preguntasDependientes":[
+                  {
+                    "tipoPregunta":"texto libre",
+                    "texto": "Describa la actividad"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paso": 2,
+            "preguntasPaso": [
+              {
+                "tipoPregunta":"texto libre",
+                "texto":"CIF/NIF"
+              },
+              {
+                "tipoPregunta":"selector",
+                "texto":"Volumen de facturación consolidado de su último ejercicio",
+                "posiblesValores":["Hasta 100.000 €",
+                "Entre 100.001 € y 250.000 €",
+                "Entre 250.001 € y 500.000 €",
+                "Entre 500.001 € y 750.000 €",
+                "Entre 1.000.001 € y 2.000.000 €",
+                "Entre 2.000.001 € y 3.000.000 €",
+                "Entre 3.000.001 € y 4.000.000 €",
+                "Entre 4.000.001 € y 5.000.000 €",
+                "Entre 5.000.001 € y 6.000.000 €",
+                "Entre 6.000.001 € y 7.000.000 €",
+                "Entre 7.000.001 € y 8.000.000 €",
+                "Entre 8.000.001 € y 9.000.000 €",
+                "Entre 9.000.001 € y 10.000.000 €"]
+              }
+            ]
+          },
+          {
+            "paso": 3,
+            "preguntasPaso": [
+              {
+                "tipoPregunta":"numerico",
+                "texto":"Número de empleados"
+              },
+              {
+                "tipoPregunta":"picture options",
+                "texto":"¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
+                "posiblesValores":["Sí", "No"],
+                "imagenesPregunta":["assets/img/preguntas/si.svg",
+                  "assets/img/preguntas/no.svg"]
+              }
+            ]
+          },
+          {
+            "paso": 4,
+            "preguntasPaso": [
+              {
+                "tipoPregunta":"selector",
+                "texto":"Indique el límite de indemnización que desea",
+                "posiblesValores":["100.000 €",
+                "250.000 €",
+                "500.000 €",
+                "750.000 €",
+                "1.000.000 €",
+                "2.000.000 €"]
+              }
+            ]
+          },
+          {
+            "paso": 5,
+            "preguntasPaso": [
+              {
+                "tipoPregunta":"texto libre",
+                "texto":"Razón Social/Nombre del tomador"
+              },
+              {
+                "tipoPregunta":"texto libre",
+                "texto":"Dirección"
+              },
+              {
+                "tipoPregunta":"numerico",
+                "texto":"Código Postal"
+              },
+              {
+                "tipoPregunta":"texto libre",
+                "texto":"Teléfono",
+                "tag": "telefono"
+              },
+              {
+                "tipoPregunta":"texto libre",
+                "texto":"Correo",
+                "tag": "correo"
+              },
+              {
+                "tipoPregunta":"selector",
+                "texto":"He leído y acepto la Política de Privacidad",
+                "posiblesValores": ["Acepto", "No acepto"]
+              },
+              {
+                "tipoPregunta":"picture options",
+                "texto":"Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+                "posiblesValores": ["Autorizo", "No autorizo"],
+                "imagenesPregunta":["assets/img/preguntas/pulgarHaciaArriba.svg",
+                  "assets/img/preguntas/pulgarHaciaAbajo.svg"]
+              },
+              {
+                "tipoPregunta":"picture options",
+                "texto":"¿Cómo nos conociste?",
+                "posiblesValores": ["Recomendación de un tercero", "LinkedIn", "E-mail", "Otro"],
+                "imagenesPregunta":["assets/img/preguntas/recomendacion.svg",
+                "assets/img/preguntas/LinkedIn.svg",
+                "assets/img/preguntas/email.svg",
+                "assets/img/preguntas/otro.svg"]
+              }
+            ]
+          }
+            ]
+},
     {
         "nombre": "Salud Colectivos",
         "principal": "no",
