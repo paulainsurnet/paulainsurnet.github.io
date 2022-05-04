@@ -19,11 +19,11 @@
             "paso": 1,
             "preguntasPaso": [
               {
-                "tipo":"texto libre",
+                "tipoPregunta":"numerico",
                 "texto":"Volumen de Facturación"
               },
               {
-                "tipo":"selector",
+                "tipoPregunta":"selector",
                 "texto":"Actividad",
                 "posiblesValores": ["Consultor de agua",
                   "Consultor de calidad",
@@ -31,7 +31,7 @@
                 ]
               },
               {
-                "tipo":"picture options",
+                "tipoPregunta":"picture options",
                 "texto":"¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
                 "posiblesValores": ["Sí", "No"],
                 "imagenesPregunta": [
@@ -45,12 +45,17 @@
             "paso": 2,
             "preguntasPaso": [
               {
-                "tipo":"texto libre",
+                "tipoPregunta":"texto libre",
                 "texto":"CIF/NIF"
               },
               {
-                "tipo":"texto libre",
+                "tipoPregunta":"numerico",
                 "texto":"Número de empleados"
+              },
+              {
+                "tipoPregunta":"texto libre",
+                "texto":"Correo electrónico",
+                "tag": "correo"
               }
             ]
           } 
