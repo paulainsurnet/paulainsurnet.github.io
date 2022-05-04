@@ -13,6 +13,47 @@
         "identificador": "1",
         "imagenes": [
             "assets/img/productos/CORE4x1.svg"
+        ],
+        "preguntas": [
+          {
+            "paso": 1,
+            "preguntasPaso": [
+              {
+                "tipo":"texto libre",
+                "texto":"Volumen de Facturación"
+              },
+              {
+                "tipo":"selector",
+                "texto":"Actividad",
+                "posiblesValores": ["Consultor de agua",
+                  "Consultor de calidad",
+                  "Asesoría Fiscal"
+                ]
+              },
+              {
+                "tipo":"picture options",
+                "texto":"¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
+                "posiblesValores": ["Sí", "No"],
+                "imagenesPregunta": [
+                  "assets/img/preguntas/si.svg",
+                  "assets/img/preguntas/no.svg"
+                ]
+              }
+            ]
+          },
+          {
+            "paso": 2,
+            "preguntasPaso": [
+              {
+                "tipo":"texto libre",
+                "texto":"CIF/NIF"
+              },
+              {
+                "tipo":"texto libre",
+                "texto":"Número de empleados"
+              }
+            ]
+          } 
         ]
     },
     {
