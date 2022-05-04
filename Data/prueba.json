@@ -14,7 +14,7 @@
         "imagenes": [
             "assets/img/productos/CORE4x1.svg"
         ],
-        "preguntas": [
+        "formulario": [
           {
             "paso": 1,
             "preguntasPaso": [
