@@ -2,7 +2,7 @@
     {
         "nombre": "CORE4X1",
         "principal": "yes",
-        "descripcion": "¿Por qué contratar 4 pólizas cuando lo puedes tener todo en 1?<br>Responsabilidad Civil Administradotres y Directivos, D&0<br>Responsabilidad Civil Profesional<br>Responsabilidad Civil General<br>Cyber",
+        "descripcion": "¿Por qué contratar 4 pólizas cuando lo puedes tener todo en 1?<br>Responsabilidad Civil Administradores y Directivos, D&O<br>Responsabilidad Civil Profesional<br>Responsabilidad Civil General<br>Cyber",
         "paraQuien": "",
         "porQue": "",
         "coberturasDestacadas": "",
@@ -14,6 +14,57 @@
         "imagenes": [
             "assets/img/productos/CORE4x1.svg"
         ]
+    },
+    {
+        "nombre": "Influencer",
+        "principal": "yes",
+        "descripcion": "",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "personalizado",
+        "modalidades": "",
+        "typeForm": "PWRFfyi5",
+        "identificador": "1",
+        "imagenes": [
+            "assets/img/productos/RCInfluencers.svg"
+        ],
+        "url": "https://www.insurceo.com/producto?Influencer"
+    },
+    {
+        "nombre": "RC Agentes Inmobiliarios",
+        "principal": "yes",
+        "descripcion": "",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "personalizado",
+        "modalidades": "",
+        "typeForm": "",
+        "identificador": "1",
+        "imagenes": [
+            "assets/img/productos/RCAgentesInmobiliarios.svg"
+        ],
+        "url": "https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes"
+    },
+    {
+        "nombre": "Ciber Hoteles",
+        "principal": "yes",
+        "descripcion": "",
+        "paraQuien": "",
+        "porQue": "",
+        "coberturasDestacadas": "",
+        "casoReal": "",
+        "tipo": "personalizado",
+        "modalidades": "",
+        "typeForm": "",
+        "identificador": "1",
+        "imagenes": [
+            "assets/img/productos/CiberHoteles.svg"
+        ],
+        "url": "https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles"
     },
     {
         "nombre": "D&O",
@@ -80,13 +131,13 @@
         ]
     },
     {
-        "nombre": "Keyman",
+        "nombre": "Vida",
         "principal": "no",
-        "descripcion": "El Seguro de Vida Key Man protege a la empresa ante pérdidas financieras derivadas de la muerte o incapacidad de la persona clave del negocio.",
+        "descripcion": "El Seguro de Vida protege a la empresa ante pérdidas financieras derivadas de la muerte o incapacidad de la persona clave del negocio.",
         "paraQuien": "Todas las compañías, desde empresas multinacionales hasta las pequeñas start-ups, tienen miembros entre su personal que son imprescindibles para las mismas.",
         "porQue": "Este contrato ofrecerá una indemnización monetaria si al asegurado le sucede cualquier siniestro cubierto en la póliza. De este modo, la empresa dispondrá de recursos para poder continuar con sus operaciones y cubrir el déficit de conocimiento y productividad mientras se encuentra en búsqueda de un sustituto.",
         "coberturasDestacadas": "<ul><li>Disminuir el impacto económico causado a la empresa por la invalidez o fallecimiento del asegurado</li><li>Pérdida de clientes</li><li>Impago de créditos concedidos a empresas y/o empresarios</li><li>Descenso de la actividad</li><li>Pérdida de Know how</li></ul>",
-        "casoReal": "La empresa X tiene un contrato de seguro Key man por el que se asegura al director de estrategias de marketing. <br> <br> De camino al trabajo este sufre un accidente y fallece. <br> <br> La aseguradora indemnizará a la compañía la cantidad acordada para de esta manera reducir el impacto económico que pudiera derivarse de este suceso hasta encontrar un sustituto.",
+        "casoReal": "La empresa X tiene un contrato de seguro de vida por el que se asegura al director de estrategias de marketing. <br> <br> De camino al trabajo este sufre un accidente y fallece. <br> <br> La aseguradora indemnizará a la compañía la cantidad acordada para de esta manera reducir el impacto económico que pudiera derivarse de este suceso hasta encontrar un sustituto.",
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "ZbBwG1",
