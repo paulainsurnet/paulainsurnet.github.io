@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Ciber hoteles",
+        "imagenes": [
+            "assets/img/landingPage/logoCiberBlanco.svg"
+        ],
+        "id": 1
+    },
+    {
+        "nombre": "CORE4x1",
+        "imagenes": [
+            "assets/img/landingPage/logoCore4x1Blanco.svg"
+        ],
+        "id": 2
+    },
+    {
+        "nombre": "D&O",
+        "imagenes": [
+            "assets/img/landingPage/logoD&OBlanco.svg"
+        ],
+        "id": 3
+    },
+    {
+        "nombre": "Influencers",
+        "imagenes": [
+            "assets/img/landingPage/logoInfluencersBlanco.svg"
+        ],
+        "id": 4
+    },    
+    {
+        "nombre": "RC",
+        "imagenes": [
+            "assets/img/landingPage/logoRCPBlanco.svg"
+        ],
+        "id": 5
+    },    
+    {
+        "nombre": "RC Agentes",
+        "imagenes": [
+            "assets/img/landingPage/logoRCAgentesBlanco.svg"
+        ],
+        "id": 6
+    }
+]
