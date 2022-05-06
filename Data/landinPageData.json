@@ -1,6 +1,7 @@
 [
     {
         "nombre": "Ciber hoteles",
+        "url": "window.location.href='https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles'",
         "imagenes": [
             "assets/img/landingPage/logoCiberBlanco.svg"
         ],
@@ -8,6 +9,7 @@
     },
     {
         "nombre": "CORE4x1",
+        "url": "window.location.href='https://cotizaciones.insurceo.com/packs/1/form'",
         "imagenes": [
             "assets/img/landingPage/logoCore4x1Blanco.svg"
         ],
@@ -15,6 +17,7 @@
     },
     {
         "nombre": "D&O",
+        "url": "window.location.href='https://cotizaciones.insurceo.com/packs/3/form'",
         "imagenes": [
             "assets/img/landingPage/logoD&OBlanco.svg"
         ],
@@ -22,6 +25,7 @@
     },
     {
         "nombre": "Influencers",
+        "url": "window.location.href='https://www.insurceo.com/producto?Influencer'",
         "imagenes": [
             "assets/img/landingPage/logoInfluencersBlanco.svg"
         ],
@@ -29,6 +33,7 @@
     },    
     {
         "nombre": "RC",
+        "url": "window.location.href='https://cotizaciones.insurceo.com/packs/6/form'",
         "imagenes": [
             "assets/img/landingPage/logoRCPBlanco.svg"
         ],
@@ -36,6 +41,7 @@
     },    
     {
         "nombre": "RC Agentes",
+        "url": "window.location.href='https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes'",
         "imagenes": [
             "assets/img/landingPage/logoRCAgentesBlanco.svg"
         ],
