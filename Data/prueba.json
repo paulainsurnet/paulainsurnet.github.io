@@ -13,8 +13,7 @@
     "identificador": "1",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Influencer",
@@ -31,8 +30,7 @@
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/RCInfluencers.svg"
     ],
-    "url": "https://www.insurceo.com/producto?Influencer",
-    "formulario": []
+    "url": "https://www.insurceo.com/producto?Influencer"
   },
   {
     "nombre": "RC Agentes Inmobiliarios",
@@ -49,8 +47,7 @@
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/RCAgentesInmobiliarios.svg"
     ],
-    "url": "https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes",
-    "formulario": []
+    "url": "https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes"
   },
   {
     "nombre": "Ciber Hoteles",
@@ -67,8 +64,7 @@
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CiberHoteles.svg"
     ],
-    "url": "https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles",
-    "formulario": []
+    "url": "https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles"
   },
   {
     "nombre": "D&O",
@@ -84,8 +80,7 @@
     "identificador": "2",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Cyber",
@@ -101,8 +96,7 @@
     "identificador": "3",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "RC Profesional",
@@ -118,8 +112,7 @@
     "identificador": "4",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Daños Materiales",
@@ -135,8 +128,7 @@
     "identificador": "5",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Vida",
@@ -152,8 +144,7 @@
     "identificador": "6",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "RC General",
@@ -282,8 +273,7 @@
     "identificador": "8",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Travel Flex",
@@ -299,8 +289,7 @@
     "identificador": "9",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Accidentes convenio",
@@ -316,8 +305,7 @@
     "identificador": "10",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Transporte mercancías",
@@ -333,8 +321,7 @@
     "identificador": "11",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Flota de vehículos",
@@ -350,8 +337,7 @@
     "identificador": "12",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Responsabilidad medioambiental",
@@ -367,8 +353,7 @@
     "identificador": "13",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "Protección directivos",
@@ -384,8 +369,7 @@
     "identificador": "14",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg"
-    ],
-    "formulario": []
+    ]
   },
   {
     "nombre": "",
@@ -399,7 +383,6 @@
     "modalidades": "",
     "typeForm": "",
     "identificador": "15",
-    "imagenes": [""],
-    "formulario": []
+    "imagenes": [""]
   }
 ]
