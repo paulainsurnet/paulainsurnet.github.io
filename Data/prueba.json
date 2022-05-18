@@ -175,7 +175,7 @@
             "preguntasDependientes": [
               {
                 "condicion": "la pregunta [0].[0] = Otros",
-                "tipoPregunta": "texto libre",
+                "tipoPregunta": "textoLibre",
                 "texto": "Describa la actividad"
               }
             ]
