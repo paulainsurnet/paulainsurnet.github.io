@@ -185,7 +185,7 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "Número de empleados",
             "preguntasDependientes": []
           },
@@ -202,7 +202,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "picture options",
+            "tipoPregunta": "pictureOptions",
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
             "nOptions": 2,
             "img": [
@@ -216,32 +216,32 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "CIF/NIF",
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "Razón Social/Nombre del tomador",
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "Dirección",
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "texto libre",
+            "tipoPregunta": "textoLibre",
             "texto": "Correo",
             "preguntasDependientes": []
           },
