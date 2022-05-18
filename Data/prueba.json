@@ -203,6 +203,10 @@
               "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
               "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
             ],
+            "imgText": [
+              "Si",
+              "No"
+            ],
             "preguntasDependientes": []
           }
         ]
