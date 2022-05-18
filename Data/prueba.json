@@ -245,7 +245,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la Política de Privacidad",
+            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "preguntasDependientes": []
           },
           {
