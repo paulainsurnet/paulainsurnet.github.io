@@ -167,11 +167,6 @@
           {
             "tipoPregunta": "activitySelector",
             "texto": "Actividad",
-            "posiblesValores": [
-              "Consultor de agua",
-              "Consultor de calidad",
-              "Asesoría Fiscal"
-            ],
             "preguntasDependientes": [
               {
                 "condicion": "la pregunta [0].[0] = Otros",
@@ -204,7 +199,6 @@
           {
             "tipoPregunta": "pictureOptions",
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
-            "nOptions": 2,
             "img": [
               "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
               "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
