@@ -165,7 +165,7 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "selector",
+            "tipoPregunta": "activitySelector",
             "texto": "Actividad",
             "posiblesValores": [
               "Consultor de agua",
