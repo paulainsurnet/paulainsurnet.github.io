@@ -170,7 +170,8 @@
             "id": "activity",
             "preguntasDependientes": [
               {
-                "condicion": "la pregunta [0].[0] = Otros",
+                "condicionOperador": "==",
+                "condicion": "Otros",
                 "tipoPregunta": "textoLibre",
                 "id": "activity-text",
                 "texto": "Describa la actividad"
