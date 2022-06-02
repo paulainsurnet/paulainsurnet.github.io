@@ -200,7 +200,15 @@
             "texto": "Indique el límite de indemnización que desea",
             "id": "limiteIndemnización",
             "posiblesValores": ["1", "2", "3"],
-            "preguntasDependientes": []
+            "preguntasDependientes": [
+              {
+                "condicionOperador": ">",
+                "condicion": "2",
+                "tipoPregunta": "textoLibre",
+                "id": "ejemploSubpregunta",
+                "texto": "Ejemplo subpregunta"
+              }
+            ]
           },
           {
             "tipoPregunta": "pictureOptions",
