@@ -186,14 +186,30 @@
             "tipoPregunta": "textoLibre",
             "texto": "Número de empleados",
             "id": "numeroEmpleados",
-            "preguntasDependientes": []
+            "preguntasDependientes": [
+              {
+                "condicionOperador": ">",
+                "condicion": "0",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
           },
           {
             "tipoPregunta": "selector",
             "texto": "Volumen de facturación consolidado de su último ejercicio",
             "id": "volumenFacturacion",
             "posiblesValores": ["1", "2", "3"],
-            "preguntasDependientes": []
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "<",
+                "condicion": "0",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
           },
           {
             "tipoPregunta": "selector",
