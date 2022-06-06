@@ -203,7 +203,7 @@
             "posiblesValores": ["1", "2", "3"],
             "preguntasDependientes": [
               {
-                "condicionOperador": "<",
+                "condicionOperador": ">",
                 "condicion": "0",
                 "tipoPregunta": "textoLibre",
                 "id": "activity-text",
