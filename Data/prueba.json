@@ -191,7 +191,7 @@
                 "condicionOperador": ">",
                 "condicion": "0",
                 "tipoPregunta": "textoLibre",
-                "id": "activity-text",
+                "id": "activity-text2",
                 "texto": "Describa la actividad"
               }
             ]
@@ -206,7 +206,7 @@
                 "condicionOperador": ">",
                 "condicion": "0",
                 "tipoPregunta": "textoLibre",
-                "id": "activity-text",
+                "id": "activity-text1",
                 "texto": "Describa la actividad"
               }
             ]
