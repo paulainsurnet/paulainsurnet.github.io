@@ -212,7 +212,7 @@
                 "condicionOperador": ">",
                 "condicion": "2",
                 "tipoPregunta": "textoLibre",
-                "id": "activity-text1",
+                "id": "activity-text2",
                 "texto": "Describa la actividad"
               }
             ]
@@ -261,7 +261,7 @@
                 "dependentId": "reclamaciones-No",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
-                "id": "activity-text5",
+                "id": "activity-text6",
                 "texto": "Describa la reclamación"
               }
             ]
