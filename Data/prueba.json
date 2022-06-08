@@ -243,7 +243,6 @@
               "reclamaciones-Si",
               "reclamaciones-No"
             ],
-            "type": "unique",
             "preguntasDependientes": []
           },
           {
@@ -263,7 +262,6 @@
               "reclam-Si",
               "reclam-No"
             ],
-            "type": "unique",
             "preguntasDependientes": []
           }
         ]
