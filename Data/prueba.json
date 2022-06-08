@@ -243,7 +243,14 @@
               "reclamaciones-Si",
               "reclamaciones-No"
             ],
-            "preguntasDependientes": []
+            "preguntasDependientes": [
+              {
+                "dependentId": "reclamaciones-Si",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text5",
+                "texto": "Describa la reclamación"
+              }
+            ]
           },
           {
             "tipoPregunta": "pictureOptions",
