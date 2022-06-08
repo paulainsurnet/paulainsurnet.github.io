@@ -228,6 +228,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType":"exclusive",
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
             "id": "reclamaciones",
             "img": [
@@ -241,6 +242,26 @@
             "imgId": [
               "reclamaciones-Si",
               "reclamaciones-No"
+            ],
+            "type": "unique",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "optionType":"inclusive",
+            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
+            "id": "reclam",
+            "img": [
+              "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
+              "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
+            ],
+            "imgText": [
+              "Si",
+              "No"
+            ],
+            "imgId": [
+              "reclam-Si",
+              "reclam-No"
             ],
             "type": "unique",
             "preguntasDependientes": []
