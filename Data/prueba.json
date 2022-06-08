@@ -208,6 +208,12 @@
                 "tipoPregunta": "textoLibre",
                 "id": "activity-text1",
                 "texto": "Describa la actividad"
+              },               {
+                "condicionOperador": ">",
+                "condicion": "2",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text1",
+                "texto": "Describa la actividad"
               }
             ]
           },
@@ -246,6 +252,13 @@
             "preguntasDependientes": [
               {
                 "dependentId": "reclamaciones-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text5",
+                "texto": "Describa la reclamación"
+              },
+              {
+                "dependentId": "reclamaciones-No",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "activity-text5",
