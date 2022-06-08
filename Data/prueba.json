@@ -246,6 +246,7 @@
             "preguntasDependientes": [
               {
                 "dependentId": "reclamaciones-Si",
+                "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "activity-text5",
                 "texto": "Describa la reclamación"
