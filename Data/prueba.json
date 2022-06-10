@@ -186,51 +186,21 @@
             "tipoPregunta": "textoLibre",
             "texto": "Número de empleados",
             "id": "numeroEmpleados",
-            "preguntasDependientes": [
-              {
-                "condicionOperador": ">",
-                "condicion": "0",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text2",
-                "texto": "Describa la actividad"
-              }
-            ]
+            "preguntasDependientes": []
           },
           {
             "tipoPregunta": "selector",
-            "texto": "Volumen de facturación consolidado de su último ejercicio",
+            "texto": "Volumen de facturación consolidado de su último ejercicio, En caso de que usted no consolide, indíquenos por favor, su volumen de facturación total incluyendo filiales domiciliadas en el Espacio Económico Europeo.",
             "id": "volumenFacturacion",
-            "posiblesValores": ["1", "2", "3"],
-            "preguntasDependientes": [
-              {
-                "condicionOperador": ">",
-                "condicion": "0",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text1",
-                "texto": "Describa la actividad"
-              },               {
-                "condicionOperador": ">",
-                "condicion": "2",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text2",
-                "texto": "Describa la actividad"
-              }
-            ]
+            "posiblesValores": ["Hasta 100.000 €", "Entre 100.001 € y 250.000 €", "Entre 250.001 € y 500.000 €", "Entre 500.001 € y 750.000 €", "Entre 750.001 € y 1.000.000 €", "Entre 1.000.001 € y 2.000.000 €", "Entre 2.000.001 € y 3.000.000 €", "Entre 3.000.001 € y 4.000.000", "Entre 4.000.001 € y 5.000.000 €", "Entre 5.000.001 € y 6.000.000", "Entre 6.000.001 € y 7.000.000 €", "Entre 7.000.001 € y 8.000.000 €", "Entre 8.000.001 € y 9.000.000", "Entre 9.000.001 € y 10.000.000 €"],
+            "preguntasDependientes": []
           },
           {
             "tipoPregunta": "selector",
             "texto": "Indique el límite de indemnización que desea",
             "id": "limiteIndemnización",
-            "posiblesValores": ["1", "2", "3"],
-            "preguntasDependientes": [
-              {
-                "condicionOperador": ">",
-                "condicion": "2",
-                "tipoPregunta": "textoLibre",
-                "id": "ejemploSubpregunta",
-                "texto": "Ejemplo subpregunta"
-              }
-            ]
+            "posiblesValores": ["100.000 €", "250.000 €", "500.000 €", "600.000 €", "750.000 €", "1.000.000 €", "2.000.000 €"],
+            "preguntasDependientes": []
           },
           {
             "tipoPregunta": "pictureOptions",
@@ -238,50 +208,16 @@
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
             "id": "reclamaciones",
             "img": [
-              "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
-              "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TD.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TU.png"
             ],
             "imgText": [
-              "Si",
+              "Sí",
               "No"
             ],
             "imgId": [
               "reclamaciones-Si",
               "reclamaciones-No"
-            ],
-            "preguntasDependientes": [
-              {
-                "dependentId": "reclamaciones-Si",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text5",
-                "texto": "Describa la reclamación"
-              },
-              {
-                "dependentId": "reclamaciones-No",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text6",
-                "texto": "Describa la reclamación"
-              }
-            ]
-          },
-          {
-            "tipoPregunta": "pictureOptions",
-            "optionType":"inclusive",
-            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
-            "id": "reclam",
-            "img": [
-              "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
-              "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
-            ],
-            "imgText": [
-              "Si",
-              "No"
-            ],
-            "imgId": [
-              "reclam-Si",
-              "reclam-No"
             ],
             "preguntasDependientes": []
           }

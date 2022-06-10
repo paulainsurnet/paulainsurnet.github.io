@@ -1,0 +1,181 @@
+{
+    "formulario": [
+        {
+          "preguntas": [
+            {
+              "tipoPregunta": "activitySelector",
+              "texto": "Actividad",
+              "id": "activity",
+              "preguntasDependientes": [
+                {
+                  "condicionOperador": "==",
+                  "condicion": "Otros",
+                  "tipoPregunta": "textoLibre",
+                  "id": "activity-text",
+                  "texto": "Describa la actividad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "preguntas": [
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "Número de empleados",
+              "id": "numeroEmpleados",
+              "preguntasDependientes": [
+                {
+                  "condicionOperador": ">",
+                  "condicion": "0",
+                  "tipoPregunta": "textoLibre",
+                  "id": "activity-text2",
+                  "texto": "Describa la actividad"
+                }
+              ]
+            },
+            {
+              "tipoPregunta": "selector",
+              "texto": "Volumen de facturación consolidado de su último ejercicio",
+              "id": "volumenFacturacion",
+              "posiblesValores": ["1", "2", "3"],
+              "preguntasDependientes": [
+                {
+                  "condicionOperador": ">",
+                  "condicion": "0",
+                  "tipoPregunta": "textoLibre",
+                  "id": "activity-text1",
+                  "texto": "Describa la actividad"
+                },               {
+                  "condicionOperador": ">",
+                  "condicion": "2",
+                  "tipoPregunta": "textoLibre",
+                  "id": "activity-text5",
+                  "texto": "Describa la actividad"
+                }
+              ]
+            },
+            {
+              "tipoPregunta": "selector",
+              "texto": "Indique el límite de indemnización que desea",
+              "id": "limiteIndemnización",
+              "posiblesValores": ["1", "2", "3"],
+              "preguntasDependientes": [
+                {
+                  "condicionOperador": ">",
+                  "condicion": "2",
+                  "tipoPregunta": "textoLibre",
+                  "id": "ejemploSubpregunta",
+                  "texto": "Ejemplo subpregunta"
+                }
+              ]
+            },
+            {
+              "tipoPregunta": "pictureOptions",
+              "optionType":"exclusive",
+              "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
+              "id": "reclamaciones",
+              "img": [
+                "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
+                "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
+              ],
+              "imgText": [
+                "Si",
+                "No"
+              ],
+              "imgId": [
+                "reclamaciones-Si",
+                "reclamaciones-No"
+              ],
+              "preguntasDependientes": [
+                {
+                  "dependentId": "reclamaciones-Si",
+                  "condicion": "selected",
+                  "tipoPregunta": "textoLibre",
+                  "id": "activity-text5",
+                  "texto": "Describa la reclamación"
+                },
+                {
+                  "dependentId": "reclamaciones-No",
+                  "condicion": "selected",
+                  "tipoPregunta": "textoLibre",
+                  "id": "activity-text6",
+                  "texto": "Describa la reclamación"
+                }
+              ]
+            },
+            {
+              "tipoPregunta": "pictureOptions",
+              "optionType":"inclusive",
+              "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
+              "id": "reclam",
+              "img": [
+                "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
+                "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
+              ],
+              "imgText": [
+                "Si",
+                "No"
+              ],
+              "imgId": [
+                "reclam-Si",
+                "reclam-No"
+              ],
+              "preguntasDependientes": []
+            }
+          ]
+        },
+        {
+          "preguntas": [
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "CIF/NIF",
+              "id": "cif-nif",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "Razón Social/Nombre del tomador",
+              "id": "razonSocial",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "Dirección",
+              "id": "direccion",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "Código Postal",
+              "id": "cp",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "Teléfono",
+              "id": "telefono",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "textoLibre",
+              "texto": "Correo",
+              "id": "correo",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "checkBox",
+              "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+              "id": "politica",
+              "preguntasDependientes": []
+            },
+            {
+              "tipoPregunta": "checkBox",
+              "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+              "id": "comunicaciones",
+              "preguntasDependientes": []
+            }
+          ]
+        }
+      ]
+}
