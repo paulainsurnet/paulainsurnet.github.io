@@ -46,7 +46,8 @@
                   "tipoPregunta": "textoLibre",
                   "id": "activity-text1",
                   "texto": "Describa la actividad"
-                },               {
+                },              
+                {
                   "condicionOperador": ">",
                   "condicion": "2",
                   "tipoPregunta": "textoLibre",
