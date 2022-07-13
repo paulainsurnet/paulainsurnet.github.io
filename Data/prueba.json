@@ -128,6 +128,210 @@
     "identificador": "5",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Volumen de facturación",
+            "id": "volumenFacturacion",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "Régimen",
+            "id": "regimen",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
+            ],
+            "imgText": [
+              "Inquilino",
+              "Propietario"
+            ],
+            "imgId": [
+              "regimen-inquilino",
+              "regimen-propietario"
+            ],
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Inquilino",
+                "tipoPregunta": "textoLibre",
+                "id": "regimen-text",
+                "texto": "Obras de reforma"
+              }
+            ]
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Mobiliario y Maquinaria",
+            "id": "mobymaquina",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Existencias",
+            "id": "existences",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Superficie (m2)",
+            "id": "superficiem2",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "Indica que medidas contra incendio y robo tienes",
+            "id": "rob&firemesures",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
+            ],
+            "imgText": [
+              "Extintores",
+              "BIES",
+              "Huecos de fácil acceso protegido (cierre metálico, rejas, ...)",
+              "Alarma conectada a central"
+            ],
+            "imgId": [
+              "rob&firemesures-Extintor",
+              "rob&firemesures-BIES",
+              "rob&firemesures-Huecos",
+              "rob&firemesures-Alarma"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Desea contratar la garantía de Responsabilidad Civil General?",
+            "id": "garantiaRCG",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "garantiaRCG-si",
+              "garantiaRCG-no"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Desea contratar la garantía de cobertura de Pérdida de Beneficios?",
+            "id": "garantiaPB",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "garantiaPB-si",
+              "garantiaPB-no"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "reclamaciones-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "garantiaPB-text",
+                "texto": "Indícanos el beneficio bruto anual."
+              }
+            ]
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección del riesgo",
+            "id": "dirriesgo",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -144,6 +348,210 @@
     "identificador": "6",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha de nacimiento",
+            "id": "birthdate",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Capital Fallecimiento",
+            "id": "capital",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Quieres contratar la garantía de fallecimiento por accidente? ",
+            "id": "accidente",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "accidente-si",
+              "accidente-no"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Quieres contratar la garantía de fallecimiento por accidente de circulación?",
+            "id": "accidente-coche",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "accidente-coche-si",
+              "accidente-coche-no"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Quieres contratar la garantía de incapacidad permanente y absoluta?",
+            "id": "incapacidad",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "incapacidad-si",
+              "incapacidad-no"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "incapacidad-si",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "id": "incapacidad-si1",
+                "texto": "¿Quieres contratar la garantía de incapacidad por accidente?",
+                "img": [
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                ],
+                "imgText": [
+                  "Sí",
+                  "No"
+                ],
+                "imgId": [
+                  "incapacidad-si1foto",
+                  "incapacidad-no1foto"
+                ]
+              },
+              {
+                "dependentId": "incapacidad-si",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "id": "incapacidad-si2",
+                "texto": "¿Quieres contratar la garantía de incapacidad por accidente de circulación?",
+                "img": [
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                ],
+                "imgText": [
+                  "Sí",
+                  "No"
+                ],
+                "imgId": [
+                  "incapacidad-si2foto",
+                  "incapacidad-no2foto"
+                ]
+              },
+              {
+                "dependentId": "incapacidad-si",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "id": "incapacidad-si3",
+                "texto": "¿Quieres contratar la garantía de Invalidez Permanente Total para la profesión habitual?",
+                "img": [
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                ],
+                "imgText": [
+                  "Sí",
+                  "No"
+                ],
+                "imgId": [
+                  "incapacidad-si3foto",
+                  "incapacidad-no3foto3"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -184,41 +592,8 @@
         "preguntas": [
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Número de empleados",
-            "id": "numeroEmpleados",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "selector",
-            "texto": "Volumen de facturación consolidado de su último ejercicio, En caso de que usted no consolide, indíquenos por favor, su volumen de facturación total incluyendo filiales domiciliadas en el Espacio Económico Europeo.",
-            "id": "volumenFacturacion",
-            "posiblesValores": ["Hasta 100.000 €", "Entre 100.001 € y 250.000 €", "Entre 250.001 € y 500.000 €", "Entre 500.001 € y 750.000 €", "Entre 750.001 € y 1.000.000 €", "Entre 1.000.001 € y 2.000.000 €", "Entre 2.000.001 € y 3.000.000 €", "Entre 3.000.001 € y 4.000.000", "Entre 4.000.001 € y 5.000.000 €", "Entre 5.000.001 € y 6.000.000", "Entre 6.000.001 € y 7.000.000 €", "Entre 7.000.001 € y 8.000.000 €", "Entre 8.000.001 € y 9.000.000", "Entre 9.000.001 € y 10.000.000 €"],
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "selector",
-            "texto": "Indique el límite de indemnización que desea",
-            "id": "limiteIndemnización",
-            "posiblesValores": ["100.000 €", "250.000 €", "500.000 €", "600.000 €", "750.000 €", "1.000.000 €", "2.000.000 €"],
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "pictureOptions",
-            "optionType":"exclusive",
-            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
-            "id": "reclamaciones",
-            "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TD.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TU.png"
-            ],
-            "imgText": [
-              "Sí",
-              "No"
-            ],
-            "imgId": [
-              "reclamaciones-Si",
-              "reclamaciones-No"
-            ],
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
             "preguntasDependientes": []
           }
         ]
@@ -227,10 +602,47 @@
         "preguntas": [
           {
             "tipoPregunta": "textoLibre",
-            "texto": "CIF/NIF",
-            "id": "cif-nif",
+            "texto": "Número de empleados",
+            "id": "numeroEmpleados",
             "preguntasDependientes": []
           },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
+            "id": "reclamaciones",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "reclam-Si",
+              "reclam-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "selector",
+            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
+            "id": "limiteIndemnización",
+            "posiblesValores": [
+              "100.000 €",
+              "250.000 €",
+              "500.000 €",
+              "600.000 €",
+              "750.000 €",
+              "1.000.000 €",
+              "2.000.000 €"
+            ],
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
           {
             "tipoPregunta": "textoLibre",
             "texto": "Razón Social/Nombre del tomador",
@@ -246,7 +658,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
-            "id": "cp",
+            "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
@@ -263,7 +675,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -315,106 +727,8 @@
         "preguntas": [
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Número de empleados",
-            "id": "numeroEmpleados",
-            "preguntasDependientes": [
-              {
-                "condicionOperador": ">",
-                "condicion": "0",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text2",
-                "texto": "Describa la actividad"
-              }
-            ]
-          },
-          {
-            "tipoPregunta": "selector",
-            "texto": "Volumen de facturación consolidado de su último ejercicio",
-            "id": "volumenFacturacion",
-            "posiblesValores": ["1", "2", "3"],
-            "preguntasDependientes": [
-              {
-                "condicionOperador": ">",
-                "condicion": "0",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text1",
-                "texto": "Describa la actividad"
-              },              
-              {
-                "condicionOperador": ">",
-                "condicion": "2",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text5",
-                "texto": "Describa la actividad"
-              }
-            ]
-          },
-          {
-            "tipoPregunta": "selector",
-            "texto": "Indique el límite de indemnización que desea",
-            "id": "limiteIndemnización",
-            "posiblesValores": ["1", "2", "3"],
-            "preguntasDependientes": [
-              {
-                "condicionOperador": ">",
-                "condicion": "2",
-                "tipoPregunta": "textoLibre",
-                "id": "ejemploSubpregunta",
-                "texto": "Ejemplo subpregunta"
-              }
-            ]
-          },
-          {
-            "tipoPregunta": "pictureOptions",
-            "optionType":"exclusive",
-            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
-            "id": "reclamaciones",
-            "img": [
-              "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
-              "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
-            ],
-            "imgText": [
-              "Si",
-              "No"
-            ],
-            "imgId": [
-              "reclamaciones-Si",
-              "reclamaciones-No"
-            ],
-            "preguntasDependientes": [
-              {
-                "dependentId": "reclamaciones-Si",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text5",
-                "texto": "Describa la reclamación"
-              },
-              {
-                "dependentId": "reclamaciones-No",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
-                "id": "activity-text6",
-                "texto": "Describa la reclamación"
-              }
-            ]
-          },
-          {
-            "tipoPregunta": "pictureOptions",
-            "optionType":"inclusive",
-            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna?",
-            "id": "reclam",
-            "img": [
-              "https://img.freepik.com/vector-gratis/mano-sostiene-cartel-texto-yes-satisfaccion-aceptacion_100456-1882.jpg",
-              "https://pbs.twimg.com/media/EXWBaBVUEAE5Uxb.png"
-            ],
-            "imgText": [
-              "Si",
-              "No"
-            ],
-            "imgId": [
-              "reclam-Si",
-              "reclam-No"
-            ],
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
             "preguntasDependientes": []
           }
         ]
@@ -422,11 +736,90 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "textoLibre",
-            "texto": "CIF/NIF",
-            "id": "cif-nif",
+            "tipoPregunta": "selector",
+            "texto": "Indica dónde se encuentra la empresa",
+            "id": "posempresa",
+            "posiblesValores": [
+              "Madrid",
+              "Barcelona",
+              "Islas Baleares",
+              "Otro"
+            ],
             "preguntasDependientes": []
           },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Número de empleados",
+            "id": "numeroEmpleados",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pruebaArchivo",
+            "texto": "Para agilizar el proceso de cotización puedes adjuntarnos la tabla de edades y sexo de todos tus empleados.",
+            "id": "tabla-empleados",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Tienes implementado un sistema de Retribución Flexible?",
+            "id": "retribucion",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "retribucion-Si",
+              "retribucion-No"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "retribucion-Si",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "id": "retribucionsi",
+                "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
+                "img": [
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                ],
+                "imgText": [
+                  "Sí",
+                  "No"
+                ],
+                "imgId": [
+                  "retribucionsi-Si",
+                  "retribucionsi-No"
+                ]
+              },
+              {
+                "dependentId": "retribucion-No",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "id": "retribucionno",
+                "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
+                "img": [
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                ],
+                "imgText": [
+                  "Sí",
+                  "No"
+                ],
+                "imgId": [
+                  "retribucionno-Si",
+                  "retribucionno-No"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
           {
             "tipoPregunta": "textoLibre",
             "texto": "Razón Social/Nombre del tomador",
@@ -442,7 +835,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
-            "id": "cp",
+            "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
@@ -459,7 +852,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -487,6 +880,60 @@
     "identificador": "9",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "selector",
+            "texto": "Tipo de viaje",
+            "id": "viaje",
+            "posiblesValores": [
+              "Negocios",
+              "Vacaciones",
+              "Aventuras",
+              "Otros"
+            ],
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -503,6 +950,177 @@
     "identificador": "10",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Volumen de facturación",
+            "id": "volumenFacturacion",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Número de empleados",
+            "id": "numeroEmpleados",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Conoce qué convenio colectivo se aplica a su empresa?",
+            "id": "convenio",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí, lo conozco",
+              "No lo recuerdo ahora mismo"
+            ],
+            "imgId": [
+              "convenio-Si",
+              "convenio-No"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "convenio-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "conveniosi",
+                "texto": "Indique a qué convenio colectivo está sujeto"
+              }
+            ]
+          },
+          {
+            "tipoPregunta": "selector",
+            "texto": "¿En qué comunidad autónoma lleva a cabo su actividad?",
+            "id": "comunidad",
+            "posiblesValores": [
+              "Andalucía",
+              "Aragón",
+              "Asturias",
+              "Baleares",
+              "Canarias",
+              "Cantabria",
+              "Castilla León",
+              "Castilla La Mancha",
+              "Cataluña",
+              "Ceuta",
+              "Comunidad Valenciana",
+              "Extremadura",
+              "Galicia",
+              "Madrid",
+              "Melilla",
+              "Murcia",
+              "Navarra",
+              "País Vasco",
+              "La Rioja"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Dispone de más empleados en otra comunidad autónoma diferente de la seleccionada? ",
+            "id": "dispo-empleados",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "dispo-empleados-Si",
+              "dispo-empleados-No"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "dispo-empleados-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "dispo-empleadossi",
+                "texto": "Indique en qué otra u otras comunidades autónomas dispone de empleados."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -519,6 +1137,175 @@
     "identificador": "11",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "acturación bruta anual de fletes",
+            "id": "facturacion",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "selector",
+            "texto": "Quieres dar cobertura a las mercancías como",
+            "id": "cobertura",
+            "posiblesValores": [
+              "Propietario de mercancías",
+              "Transportista/Agencia de transportes",
+              "Otro"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Transportas mercancías peligrosas (ADR)?",
+            "id": "peligrosas",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "peligrosas-Si",
+              "peligrosas-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Se transportan mercancías que precisan control de temperatura? ",
+            "id": "temperatura",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "temperatura-Si",
+              "temperatura-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Tipo de mercancías",
+            "id": "tipomercancia",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "selector",
+            "texto": "Ámbito geográfico",
+            "id": "ambitor",
+            "posiblesValores": [
+              "España peninsular e insular, Ceuta y Melilla.",
+              "España, Gibraltar, Andorra, Marruecos, Argelia y Túnez",
+              "Unión Europea, Gibraltar, Andorra, Mónaco, Suiza, Reino Unido y Noruega",
+              "Unión Europea, Gibraltar, Andorra, Mónaco, Suiza, Reino Unido, Noruega, Marruecos, Argelia y Túnez",
+              "Europa (incluida Turquía).",
+              "Europa (incluida Turquía), Marruecos Argelia y Túnez"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Capital Asegurado",
+            "id": "capital",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "selector",
+            "texto": "Modalidad",
+            "id": "modalidad",
+            "posiblesValores": [
+              "Riesgos nominados",
+              "Todo riesgo"
+            ],
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -535,6 +1322,149 @@
     "identificador": "12",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "Indícanos porque está compuesta tu flota de vehículos",
+            "id": "composicion",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
+            ],
+            "imgText": [
+              "Turismos",
+              "Furgonetas",
+              "Camiones",
+              "Vehículos Industriales",
+              "Otro"
+            ],
+            "imgId": [
+              "turismo",
+              "furgoneta",
+              "camion",
+              "industrial",
+              "otro"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "turismo",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "turismo-text",
+                "texto": "Indícanos el número de turismos que tienes."
+              },
+              {
+                "dependentId": "furgoneta",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "furgoneta-text",
+                "texto": "Indícanos el número de furgonetas que tienes."
+              },
+              {
+                "dependentId": "camion",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "camion-text",
+                "texto": "Indícanos el número de camiones que tienes."
+              },
+              {
+                "dependentId": "industrial",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "industrial-text",
+                "texto": "Indícanos el número de vehículos industriales que tienes."
+              },
+              {
+                "dependentId": "otro",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "otro-text",
+                "texto": "Indícanos el número de los otros vehículos que tienes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -551,6 +1481,241 @@
     "identificador": "13",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Existe algún espacio protegido a menos de 5km de distancia de la instalación a asegurar?",
+            "id": "espacio",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "espacio-Si",
+              "espacio-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "El riesgo por asegurar, ¿está formado por más de una situación de riesgo (instalación)? ",
+            "id": "situacionriesgo",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "situacionriesgo-Si",
+              "situacionriesgo-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿La dirección de la situación del riesgo, ¿es la misma que la del tomador? ",
+            "id": "situaciondireccion",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "situaciondireccion-Si",
+              "situaciondireccion-No"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "situaciondireccion-No",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "situaciondireccion-text",
+                "texto": "Indica la dirección de la situación del riesgo a asegurar"
+              }
+            ]
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Existe alguna reclamación y/o siniestro por contaminación hasta la fecha? ",
+            "id": "contaminacion",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TD.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TU.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "contaminacion-Si",
+              "contaminacion-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Existe algún tanque aéreo como subterráneo con una antigüedad anterior al año 2000?",
+            "id": "tanqueareo",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "tanqueareo-Si",
+              "tanqueareo-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Gestiona más de 10 toneladas de residuos al día? ",
+            "id": "toneladas",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "toneladas-Si",
+              "toneladas-No"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "Escoge el capital que desea asegurar.",
+            "id": "cantcapital",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$$.png"
+            ],
+            "imgText": [
+              "300.000 €",
+              "600.000 €",
+              "1.000.000 €"
+            ],
+            "imgId": [
+              "cantcapital-low",
+              "cantcapital-mid",
+              "cantcapital-high"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Quieres incluir la cobertura de transportes?",
+            "id": "coberturatrans",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "coberturatrans-Si",
+              "coberturatrans-No"
+            ],
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -567,6 +1732,223 @@
     "identificador": "14",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg"
+    ],
+    "formulario": [
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "activitySelector",
+            "texto": "Actividad",
+            "id": "activity",
+            "preguntasDependientes": [
+              {
+                "condicionOperador": "==",
+                "condicion": "Otros",
+                "tipoPregunta": "textoLibre",
+                "id": "activity-text",
+                "texto": "Describa la actividad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "Indique el límite de indemnización para accidentes, fallecimiento o invalidez que desea.",
+            "id": "limiteIndemnización",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$$.png"
+            ],
+            "imgText": [
+              "VIP: 100.000 €",
+              "Master: 200.000 €",
+              "Premium: 300.000 €"
+            ],
+            "imgId": [
+              "limite-low",
+              "limite-mid",
+              "limite-high"
+            ],
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas": [
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "CIF/NIF del tomador",
+            "id": "cif-nif",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Razón Social/Nombre del tomador",
+            "id": "razonSocial",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha de nacimiento",
+            "id": "birthdate",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "selector",
+            "texto": "Sexo",
+            "id": "sexo",
+            "posiblesValores": [
+              "Hombre",
+              "Mujer"
+            ],
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Domicilio social",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo electrónico",
+            "id": "correo",
+            "preguntasDependientes": []
+          }
+        ]
+      },
+      {
+        "preguntas":[
+          {
+            "tipoPregunta": "pictureOptions",
+            "texto": "¿Tomador y asegurado son personas diferentes? ",
+            "id": "tomador",
+            "img": [
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+            ],
+            "imgText": [
+              "Sí",
+              "No"
+            ],
+            "imgId": [
+              "tomador-Si",
+              "tomador-No"
+            ],
+            "preguntasDependientes": [
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "razonSocialas",
+                "texto": "Razón Social/Nombre del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "cif-nifas",
+                "texto": "CIF/NIF del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "nacimientoas",
+                "texto": "Fecha de nacimiento del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "selector",
+                "id": "sexoas",
+                "texto": "Sexo",
+                "posiblesValores":[
+                  "Hombre",
+                  "Mujer"
+                ]
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "domicilioas",
+                "texto": "Domicilio"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "cpas",
+                "texto": "Código Postal"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "localidadas",
+                "texto": "Localidad y provincia"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "telefonoas",
+                "texto": "Teléfono"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "correoas",
+                "texto": "Correo electrónico"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "profesionas",
+                "texto": "Profesión/Actividad declarada del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "beneficiarios",
+                "texto": "Indicar los beneficiarios"
+              }
+            ]
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
+          }
+        ]
+      }
     ]
   },
   {
@@ -581,6 +1963,8 @@
     "modalidades": "",
     "typeForm": "",
     "identificador": "15",
-    "imagenes": [""]
+    "imagenes": [
+      ""
+    ]
   }
 ]
