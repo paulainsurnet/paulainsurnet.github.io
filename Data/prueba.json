@@ -168,6 +168,7 @@
         "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
+            "optionType":"exclusive",
             "texto": "Régimen",
             "id": "regimen",
             "img": [
@@ -184,8 +185,8 @@
             ],
             "preguntasDependientes": [
               {
-                "condicionOperador": "==",
-                "condicion": "Inquilino",
+                "dependentId": "regimen-inquilino",
+                "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "regimen-text",
                 "texto": "Obras de reforma"
@@ -212,6 +213,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType":"inclusive",
             "texto": "Indica que medidas contra incendio y robo tienes",
             "id": "rob&firemesures",
             "img": [
@@ -236,6 +238,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType":"exclusive",
             "texto": "¿Desea contratar la garantía de Responsabilidad Civil General?",
             "id": "garantiaRCG",
             "img": [
@@ -254,6 +257,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType":"exclusive",
             "texto": "¿Desea contratar la garantía de cobertura de Pérdida de Beneficios?",
             "id": "garantiaPB",
             "img": [
@@ -270,7 +274,7 @@
             ],
             "preguntasDependientes": [
               {
-                "dependentId": "reclamaciones-Si",
+                "dependentId": "garantiaPB-si",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "garantiaPB-text",
@@ -320,7 +324,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la Política de Privacidad",
+            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
