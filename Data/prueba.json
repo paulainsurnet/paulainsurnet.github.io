@@ -550,7 +550,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -605,12 +605,6 @@
             "texto": "CIF/NIF",
             "id": "cif-nif",
             "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
-            "texto": "Volumen de facturación",
-            "id": "volumenFacturacion",
-            "preguntasDependientes": []
           }
         ]
       },
@@ -643,7 +637,7 @@
           },
           {
             "tipoPregunta": "selector",
-            "texto": "Indique el límite de indemnización que desea ",
+            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
             "id": "limiteIndemnización",
             "posiblesValores": [
               "100.000 €",
@@ -692,7 +686,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -876,7 +870,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -946,7 +940,7 @@
         "preguntas": [
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1135,7 +1129,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1193,7 +1187,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Facturación bruta anual de fletes",
+            "texto": "acturación bruta anual de fletes",
             "id": "facturacion",
             "preguntasDependientes": []
           }
@@ -1322,7 +1316,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1384,8 +1378,8 @@
         "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
-            "optionType": "inclusive",
-            "texto": "Indícanos por que está compuesta tu flota de vehículos",
+            "optionType": "exclusive",
+            "texto": "Indícanos porque está compuesta tu flota de vehículos",
             "id": "composicion",
             "img": [
               "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
@@ -1442,7 +1436,7 @@
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "otro-text",
-                "texto": "Indícanos el número de otros vehículos que tienes."
+                "texto": "Indícanos el número de los otros vehículos que tienes."
               }
             ]
           }
@@ -1482,7 +1476,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1741,7 +1735,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1973,6 +1967,18 @@
                 "texto": "Indicar los beneficiarios"
               }
             ]
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "He leído y acepto la Política de Privacidad",
+            "id": "politica",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "checkBox",
+            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
+            "id": "comunicaciones",
+            "preguntasDependientes": []
           }
         ]
       }
