@@ -1967,18 +1967,6 @@
                 "texto": "Indicar los beneficiarios"
               }
             ]
-          },
-          {
-            "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la Política de Privacidad",
-            "id": "politica",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "checkBox",
-            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
-            "id": "comunicaciones",
-            "preguntasDependientes": []
           }
         ]
       }
