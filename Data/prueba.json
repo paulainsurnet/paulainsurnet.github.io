@@ -1973,21 +1973,6 @@
                 "texto": "Indicar los beneficiarios"
               }
             ]
-<<<<<<< HEAD
-=======
-          },
-          {
-            "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
-            "id": "politica",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "checkBox",
-            "texto": "Autorizo al envío de comunicaciones informativas relativas a los productos o servicios por correo postal, correo electrónico o cualquier otro medio electrónico equivalente.",
-            "id": "comunicaciones",
-            "preguntasDependientes": []
->>>>>>> df59571430b59d50ce2ce38ecb3fc9859cd30fa9
           }
         ]
       }
