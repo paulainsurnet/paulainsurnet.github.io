@@ -168,7 +168,7 @@
         "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
-            "optionType":"exclusive",
+            "optionType": "exclusive",
             "texto": "Régimen",
             "id": "regimen",
             "img": [
@@ -213,7 +213,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
-            "optionType":"inclusive",
+            "optionType": "inclusive",
             "texto": "Indica que medidas contra incendio y robo tienes",
             "id": "rob&firemesures",
             "img": [
@@ -238,7 +238,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
-            "optionType":"exclusive",
+            "optionType": "exclusive",
             "texto": "¿Desea contratar la garantía de Responsabilidad Civil General?",
             "id": "garantiaRCG",
             "img": [
@@ -257,7 +257,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
-            "optionType":"exclusive",
+            "optionType": "exclusive",
             "texto": "¿Desea contratar la garantía de cobertura de Pérdida de Beneficios?",
             "id": "garantiaPB",
             "img": [
@@ -398,6 +398,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente? ",
             "id": "accidente",
             "img": [
@@ -416,6 +417,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente de circulación?",
             "id": "accidente-coche",
             "img": [
@@ -434,6 +436,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de incapacidad permanente y absoluta?",
             "id": "incapacidad",
             "img": [
@@ -453,6 +456,7 @@
                 "dependentId": "incapacidad-si",
                 "condicion": "selected",
                 "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
                 "id": "incapacidad-si1",
                 "texto": "¿Quieres contratar la garantía de incapacidad por accidente?",
                 "img": [
@@ -472,6 +476,7 @@
                 "dependentId": "incapacidad-si",
                 "condicion": "selected",
                 "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
                 "id": "incapacidad-si2",
                 "texto": "¿Quieres contratar la garantía de incapacidad por accidente de circulación?",
                 "img": [
@@ -491,6 +496,7 @@
                 "dependentId": "incapacidad-si",
                 "condicion": "selected",
                 "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
                 "id": "incapacidad-si3",
                 "texto": "¿Quieres contratar la garantía de Invalidez Permanente Total para la profesión habitual?",
                 "img": [
@@ -612,6 +618,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
             "id": "reclamaciones",
             "img": [
@@ -765,6 +772,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Tienes implementado un sistema de Retribución Flexible?",
             "id": "retribucion",
             "img": [
@@ -787,16 +795,19 @@
                 "id": "retribucionsi",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
-                  "Sí",
-                  "No"
+                  "Cuadro Médico + Reembolso.",
+                  "Cuadro Médico sin Copago.",
+                  "Cuadro Médico con Copago."
                 ],
                 "imgId": [
-                  "retribucionsi-Si",
-                  "retribucionsi-No"
+                  "reembolsosi",
+                  "sicopagosi",
+                  "nocopagosi"
                 ]
               },
               {
@@ -806,16 +817,19 @@
                 "id": "retribucionno",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
-                  "Sí",
-                  "No"
+                  "Cuadro Médico + Reembolso.",
+                  "Cuadro Médico sin Copago.",
+                  "Cuadro Médico con Copago."
                 ],
                 "imgId": [
-                  "retribucionno-Si",
-                  "retribucionno-No"
+                  "reembolosno",
+                  "sicopagono",
+                  "nocopagono"
                 ]
               }
             ]
@@ -1000,6 +1014,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Conoce qué convenio colectivo se aplica a su empresa?",
             "id": "convenio",
             "img": [
@@ -1053,6 +1068,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Dispone de más empleados en otra comunidad autónoma diferente de la seleccionada? ",
             "id": "dispo-empleados",
             "img": [
@@ -1192,6 +1208,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Transportas mercancías peligrosas (ADR)?",
             "id": "peligrosas",
             "img": [
@@ -1210,6 +1227,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Se transportan mercancías que precisan control de temperatura? ",
             "id": "temperatura",
             "img": [
@@ -1360,6 +1378,7 @@
         "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "Indícanos porque está compuesta tu flota de vehículos",
             "id": "composicion",
             "img": [
@@ -1519,6 +1538,7 @@
         "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Existe algún espacio protegido a menos de 5km de distancia de la instalación a asegurar?",
             "id": "espacio",
             "img": [
@@ -1537,6 +1557,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "El riesgo por asegurar, ¿está formado por más de una situación de riesgo (instalación)? ",
             "id": "situacionriesgo",
             "img": [
@@ -1555,6 +1576,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿La dirección de la situación del riesgo, ¿es la misma que la del tomador? ",
             "id": "situaciondireccion",
             "img": [
@@ -1581,6 +1603,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Existe alguna reclamación y/o siniestro por contaminación hasta la fecha? ",
             "id": "contaminacion",
             "img": [
@@ -1599,6 +1622,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Existe algún tanque aéreo como subterráneo con una antigüedad anterior al año 2000?",
             "id": "tanqueareo",
             "img": [
@@ -1617,6 +1641,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Gestiona más de 10 toneladas de residuos al día? ",
             "id": "toneladas",
             "img": [
@@ -1635,6 +1660,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "Escoge el capital que desea asegurar.",
             "id": "cantcapital",
             "img": [
@@ -1656,6 +1682,7 @@
           },
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Quieres incluir la cobertura de transportes?",
             "id": "coberturatrans",
             "img": [
@@ -1760,6 +1787,7 @@
         "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "Indique el límite de indemnización para accidentes, fallecimiento o invalidez que desea.",
             "id": "limiteIndemnización",
             "img": [
@@ -1838,9 +1866,10 @@
         ]
       },
       {
-        "preguntas":[
+        "preguntas": [
           {
             "tipoPregunta": "pictureOptions",
+            "optionType": "exclusive",
             "texto": "¿Tomador y asegurado son personas diferentes? ",
             "id": "tomador",
             "img": [
@@ -1883,7 +1912,7 @@
                 "tipoPregunta": "selector",
                 "id": "sexoas",
                 "texto": "Sexo",
-                "posiblesValores":[
+                "posiblesValores": [
                   "Hombre",
                   "Mujer"
                 ]
