@@ -637,7 +637,7 @@
           },
           {
             "tipoPregunta": "selector",
-            "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
+            "texto": "Indique el límite de indemnización que desea",
             "id": "limiteIndemnización",
             "posiblesValores": [
               "100.000 €",
