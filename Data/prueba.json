@@ -1197,7 +1197,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
-            "texto": "Quieres dar cobertura a las mercancías como",
+            "texto": "Quieres dar cobertura a las mercancías como:",
             "id": "cobertura",
             "posiblesValores": [
               "Propietario de mercancías",
