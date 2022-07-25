@@ -1789,7 +1789,7 @@
             "tipoPregunta": "pictureOptions",
             "optionType": "exclusive",
             "texto": "Indique el límite de indemnización para accidentes, fallecimiento o invalidez que desea.",
-            "id": "limiteIndemnización",
+            "id": "limiteIndemnizaciónfoto",
             "img": [
               "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
               "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
