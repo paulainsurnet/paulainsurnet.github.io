@@ -792,6 +792,7 @@
                 "dependentId": "retribucion-Si",
                 "condicion": "selected",
                 "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
                 "id": "retribucionsi",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "img": [
@@ -805,15 +806,16 @@
                   "Cuadro Médico con Copago."
                 ],
                 "imgId": [
-                  "reembolosno",
-                  "sicopagono",
-                  "nocopagono"
+                  "reembolossi",
+                  "sicopagosi",
+                  "nocopagosi"
                 ]
               },
               {
                 "dependentId": "retribucion-No",
                 "condicion": "selected",
                 "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
                 "id": "retribucionno",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "img": [
