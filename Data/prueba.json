@@ -805,9 +805,9 @@
                   "Cuadro Médico con Copago."
                 ],
                 "imgId": [
-                  "reembolsosi",
-                  "sicopagosi",
-                  "nocopagosi"
+                  "reembolosno",
+                  "sicopagono",
+                  "nocopagono"
                 ]
               },
               {
