@@ -817,9 +817,9 @@
                 "id": "retribucionno",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "img": [
-                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https: //insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
                   "Cuadro Médico + Reembolso.",
