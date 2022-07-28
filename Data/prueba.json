@@ -386,8 +386,8 @@
         "preguntas": [
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha de nacimiento",
-            "id": "birthdate",
+            "texto": "Fecha de nacimiento (DD/MM/YYYY)",
+            "id": "birthdate", 
             "preguntasDependientes": []
           },
           {
@@ -1827,7 +1827,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha de nacimiento",
+            "texto": "Fecha de nacimiento (DD/MM/YYYY) ",
             "id": "birthdate",
             "preguntasDependientes": []
           },
@@ -1906,7 +1906,7 @@
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "nacimientoas",
-                "texto": "Fecha de nacimiento del asegurado"
+                "texto": "Fecha de nacimiento del asegurado (DD/MM/YYYY)"
               },
               {
                 "dependentId": "tomador-Si",
