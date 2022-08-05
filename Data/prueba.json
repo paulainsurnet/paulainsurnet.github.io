@@ -256,7 +256,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Desea contratar la garantía de cobertura de Pérdida de Beneficios?",
             "id": "garantiaPB",
