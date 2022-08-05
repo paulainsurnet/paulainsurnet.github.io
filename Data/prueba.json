@@ -1381,7 +1381,7 @@
           {
             "tipoPregunta": "pictureOptions",
             "optionType": "inclusive",
-            "texto": "Indícanos porque está compuesta tu flota de vehículos",
+            "texto": "Indícanos de qué tipo está compuesta tu flota de vehículos",
             "id": "composicion",
             "img": [
               "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
