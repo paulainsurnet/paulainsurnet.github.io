@@ -237,7 +237,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Desea contratar la garantía de Responsabilidad Civil General?",
             "id": "garantiaRCG",
