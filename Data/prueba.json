@@ -413,6 +413,9 @@
               "accidente-si",
               "accidente-no"
             ],
+            "valido": [
+              "si"
+            ],
             "preguntasDependientes": []
           },
           {
