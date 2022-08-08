@@ -665,14 +665,14 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
+            "texto": "Código Postal",
+            "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Código Postal",
-            "id": "codigopostal",
+            "texto": "Dirección",
+            "id": "direccion",
             "preguntasDependientes": []
           },
           {
