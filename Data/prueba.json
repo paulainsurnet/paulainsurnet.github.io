@@ -397,7 +397,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente? ",
             "id": "accidente",
