@@ -677,8 +677,20 @@
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
