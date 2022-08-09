@@ -379,17 +379,17 @@
             "texto": "CIF/NIF",
             "id": "cif-nif",
             "preguntasDependientes": []
-          }
-        ]
-      },
-      {
-        "preguntas": [
+          },
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha de nacimiento (DD/MM/YYYY)",
             "id": "birthdate", 
             "preguntasDependientes": []
-          },
+          }
+        ]
+      },
+      {
+        "preguntas": [
           {
             "tipoPregunta": "textoLibre",
             "texto": "Capital Fallecimiento",
