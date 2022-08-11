@@ -253,6 +253,9 @@
               "garantiaRCG-si",
               "garantiaRCG-no"
             ],
+            "valido": [
+              "no"
+            ],
             "preguntasDependientes": []
           },
           {
@@ -271,6 +274,9 @@
             "imgId": [
               "garantiaPB-si",
               "garantiaPB-no"
+            ],
+            "valido": [
+              "si"
             ],
             "preguntasDependientes": [
               {
@@ -409,7 +415,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente? ",
             "id": "accidente",
@@ -431,7 +437,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente de circulación?",
             "id": "accidente-coche",
@@ -447,10 +453,13 @@
               "accidente-coche-si",
               "accidente-coche-no"
             ],
+            "valido": [
+              "si"
+            ],
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Quieres contratar la garantía de incapacidad permanente y absoluta?",
             "id": "incapacidad",
@@ -466,11 +475,14 @@
               "incapacidad-si",
               "incapacidad-no"
             ],
+            "valido": [
+              "si"
+            ],
             "preguntasDependientes": [
               {
                 "dependentId": "incapacidad-si",
                 "condicion": "selected",
-                "tipoPregunta": "pictureOptions",
+                "tipoPregunta": "simpleQuestion",
                 "optionType": "exclusive",
                 "id": "incapacidad-si1",
                 "texto": "¿Quieres contratar la garantía de incapacidad por accidente?",
@@ -485,12 +497,15 @@
                 "imgId": [
                   "incapacidad-si1foto",
                   "incapacidad-no1foto"
+                ],
+                "valido": [
+                  "no"
                 ]
               },
               {
                 "dependentId": "incapacidad-si",
                 "condicion": "selected",
-                "tipoPregunta": "pictureOptions",
+                "tipoPregunta": "simpleQuestion",
                 "optionType": "exclusive",
                 "id": "incapacidad-si2",
                 "texto": "¿Quieres contratar la garantía de incapacidad por accidente de circulación?",
@@ -505,12 +520,15 @@
                 "imgId": [
                   "incapacidad-si2foto",
                   "incapacidad-no2foto"
+                ],
+                "valido": [
+                  "si"
                 ]
               },
               {
                 "dependentId": "incapacidad-si",
                 "condicion": "selected",
-                "tipoPregunta": "pictureOptions",
+                "tipoPregunta": "simpleQuestion",
                 "optionType": "exclusive",
                 "id": "incapacidad-si3",
                 "texto": "¿Quieres contratar la garantía de Invalidez Permanente Total para la profesión habitual?",
@@ -525,6 +543,9 @@
                 "imgId": [
                   "incapacidad-si3foto",
                   "incapacidad-no3foto3"
+                ],
+                "valido": [
+                  "no"
                 ]
               }
             ]
@@ -644,7 +665,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
             "id": "reclamaciones",
@@ -659,6 +680,9 @@
             "imgId": [
               "reclam-Si",
               "reclam-No"
+            ],
+            "valido": [
+              "no"
             ],
             "preguntasDependientes": []
           },
@@ -810,7 +834,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Tienes implementado un sistema de Retribución Flexible?",
             "id": "retribucion",
@@ -825,6 +849,9 @@
             "imgId": [
               "retribucion-Si",
               "retribucion-No"
+            ],
+            "valido": [
+              "si"
             ],
             "preguntasDependientes": [
               {
@@ -1066,7 +1093,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Conoce qué convenio colectivo se aplica a su empresa?",
             "id": "convenio",
@@ -1120,7 +1147,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Dispone de más empleados en otra comunidad autónoma diferente de la seleccionada? ",
             "id": "dispo-empleados",
@@ -1135,6 +1162,9 @@
             "imgId": [
               "dispo-empleados-Si",
               "dispo-empleados-No"
+            ],
+            "valido": [
+              "si"
             ],
             "preguntasDependientes": [
               {
@@ -1614,7 +1644,7 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Existe algún espacio protegido a menos de 5km de distancia de la instalación a asegurar?",
             "id": "espacio",
@@ -1630,10 +1660,13 @@
               "espacio-Si",
               "espacio-No"
             ],
+            "valido": [
+              "no"
+            ],
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "El riesgo por asegurar, ¿está formado por más de una situación de riesgo (instalación)? ",
             "id": "situacionriesgo",
@@ -1649,10 +1682,13 @@
               "situacionriesgo-Si",
               "situacionriesgo-No"
             ],
+            "valido": [
+              "no"
+            ],
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿La dirección de la situación del riesgo, ¿es la misma que la del tomador? ",
             "id": "situaciondireccion",
@@ -1668,6 +1704,9 @@
               "situaciondireccion-Si",
               "situaciondireccion-No"
             ],
+            "valido": [
+              "si"
+            ],
             "preguntasDependientes": [
               {
                 "dependentId": "situaciondireccion-No",
@@ -1679,7 +1718,7 @@
             ]
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Existe alguna reclamación y/o siniestro por contaminación hasta la fecha? ",
             "id": "contaminacion",
@@ -1695,10 +1734,13 @@
               "contaminacion-Si",
               "contaminacion-No"
             ],
+            "valido": [
+              "no"
+            ],
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Existe algún tanque aéreo como subterráneo con una antigüedad anterior al año 2000?",
             "id": "tanqueareo",
@@ -1714,10 +1756,13 @@
               "tanqueareo-Si",
               "tanqueareo-No"
             ],
+            "valido": [
+              "si"
+            ],
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Gestiona más de 10 toneladas de residuos al día? ",
             "id": "toneladas",
@@ -1732,6 +1777,9 @@
             "imgId": [
               "toneladas-Si",
               "toneladas-No"
+            ],
+            "valido": [
+              "si"
             ],
             "preguntasDependientes": []
           },
@@ -1758,7 +1806,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Quieres incluir la cobertura de transportes?",
             "id": "coberturatrans",
@@ -1773,6 +1821,9 @@
             "imgId": [
               "coberturatrans-Si",
               "coberturatrans-No"
+            ],
+            "valido": [
+              "no"
             ],
             "preguntasDependientes": []
           }
