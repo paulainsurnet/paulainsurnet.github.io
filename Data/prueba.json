@@ -237,7 +237,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "simpleQuestion",
+            "tipoPregunta": "pictureOptions",
             "optionType": "exclusive",
             "texto": "¿Desea contratar la garantía de Responsabilidad Civil General?",
             "id": "garantiaRCG",
@@ -256,7 +256,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "simpleQuestion",
+            "tipoPregunta": "pictureOptions",
             "optionType": "exclusive",
             "texto": "¿Desea contratar la garantía de cobertura de Pérdida de Beneficios?",
             "id": "garantiaPB",
@@ -300,14 +300,20 @@
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Dirección",
             "id": "direccion",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Código Postal",
-            "id": "codigopostal",
+            "texto": "Prefijo",
+            "id": "prefijo",
             "preguntasDependientes": []
           },
           {
@@ -318,13 +324,19 @@
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Correo",
             "id": "correo",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la Política de Privacidad",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -529,20 +541,32 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
@@ -863,20 +887,32 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
@@ -1309,20 +1345,32 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
@@ -1728,20 +1776,32 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
