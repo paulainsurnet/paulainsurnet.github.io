@@ -1990,6 +1990,42 @@
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Código Postal",
+            "id": "codigopostal",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Domicilio social",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Teléfono",
+            "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Correo electrónico",
+            "id": "correo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Fecha de nacimiento",
             "id": "birthdate",
             "preguntasDependientes": []
@@ -2002,30 +2038,6 @@
               "Hombre",
               "Mujer"
             ],
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
-            "texto": "Domicilio social",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
-            "texto": "Código Postal",
-            "id": "codigopostal",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
-            "texto": "Teléfono",
-            "id": "telefono",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
-            "texto": "Correo electrónico",
-            "id": "correo",
             "preguntasDependientes": []
           }
         ]
@@ -2054,13 +2066,6 @@
                 "dependentId": "tomador-Si",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
-                "id": "razonSocialas",
-                "texto": "Razón Social/Nombre del asegurado"
-              },
-              {
-                "dependentId": "tomador-Si",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
                 "id": "cif-nifas",
                 "texto": "CIF/NIF del asegurado"
               },
@@ -2068,26 +2073,8 @@
                 "dependentId": "tomador-Si",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
-                "id": "nacimientoas",
-                "texto": "Fecha de nacimiento del asegurado"
-              },
-              {
-                "dependentId": "tomador-Si",
-                "condicion": "selected",
-                "tipoPregunta": "selector",
-                "id": "sexoas",
-                "texto": "Sexo",
-                "posiblesValores": [
-                  "Hombre",
-                  "Mujer"
-                ]
-              },
-              {
-                "dependentId": "tomador-Si",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
-                "id": "domicilioas",
-                "texto": "Domicilio"
+                "id": "razonSocialas",
+                "texto": "Razón Social/Nombre del asegurado"
               },
               {
                 "dependentId": "tomador-Si",
@@ -2107,8 +2094,27 @@
                 "dependentId": "tomador-Si",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
+                "id": "domicilioas",
+                "texto": "Domicilio"
+              },
+              {
+                "tipoPregunta": "textoLibre",
+                "texto": "Prefijo",
+                "id": "prefijo",
+                "preguntasDependientes": []
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
                 "id": "telefonoas",
                 "texto": "Teléfono"
+              },
+              {
+                "tipoPregunta": "textoLibre",
+                "texto": "Fecha Efecto",
+                "id": "fechaEfecto",
+                "preguntasDependientes": []
               },
               {
                 "dependentId": "tomador-Si",
@@ -2116,6 +2122,24 @@
                 "tipoPregunta": "textoLibre",
                 "id": "correoas",
                 "texto": "Correo electrónico"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "nacimientoas",
+                "texto": "Fecha de nacimiento del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "selector",
+                "id": "sexoas",
+                "texto": "Sexo",
+                "posiblesValores": [
+                  "Hombre",
+                  "Mujer"
+                ]
               },
               {
                 "dependentId": "tomador-Si",
