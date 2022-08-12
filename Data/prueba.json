@@ -1197,20 +1197,32 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
