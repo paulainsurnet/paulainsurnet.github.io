@@ -405,7 +405,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha de nacimiento (DD/MM/YYYY)",
+            "texto": "Fecha de nacimiento",
             "id": "birthdate", 
             "preguntasDependientes": []
           }
@@ -836,7 +836,7 @@
           },
           {
             "tipoPregunta": "pruebaArchivo",
-            "texto": "Para agilizar el proceso de cotización puedes adjuntarnos la tabla de edades y sexo de todos tus empleados.",
+            "texto": "Para agilizar el proceso de cotización puedes adjuntarnos la tabla de edades y sexo de todos tus empleados. (Opcional)",
             "id": "tabla-empleados",
             "preguntasDependientes": []
           },
@@ -1978,7 +1978,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha de nacimiento (DD/MM/YYYY) ",
+            "texto": "Fecha de nacimiento",
             "id": "birthdate",
             "preguntasDependientes": []
           },
@@ -2057,7 +2057,7 @@
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "id": "nacimientoas",
-                "texto": "Fecha de nacimiento del asegurado (DD/MM/YYYY)"
+                "texto": "Fecha de nacimiento del asegurado"
               },
               {
                 "dependentId": "tomador-Si",
