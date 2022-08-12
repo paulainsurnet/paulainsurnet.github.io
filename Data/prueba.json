@@ -2147,11 +2147,10 @@
             ]
           },
           {
-            "dependentId": "tomador-Si",
-            "condicion": "selected",
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto",
-            "id": "fechaEfecto"
+            "id": "fechaEfecto",
+            "preguntasDependientes": []
           },
           {
             "tipoPregunta": "checkBox",
