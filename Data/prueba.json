@@ -79,7 +79,8 @@
     "typeForm": "qL4gDcK0",
     "identificador": "2",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg"
     ]
   },
   {
@@ -95,7 +96,8 @@
     "typeForm": "idhfIoIN",
     "identificador": "3",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg"
     ]
   },
   {
@@ -111,7 +113,8 @@
     "typeForm": "O1GLjMI6",
     "identificador": "4",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg"
     ]
   },
   {
@@ -127,7 +130,8 @@
     "typeForm": "VxWf4P",
     "identificador": "5",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg"
     ],
     "formulario": [
       {
@@ -369,7 +373,8 @@
     "typeForm": "ZbBwG1",
     "identificador": "6",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg"
     ],
     "formulario": [
       {
@@ -625,7 +630,8 @@
     "typeForm": "ZOkibqpF",
     "identificador": "7",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg"
     ],
     "formulario": [
       {
@@ -776,7 +782,8 @@
     "typeForm": "g0BZ7tO8",
     "identificador": "8",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg"
     ],
     "formulario": [
       {
@@ -977,7 +984,8 @@
     "typeForm": "Q27BS73p",
     "identificador": "9",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg"
     ],
     "formulario": [
       {
@@ -1047,7 +1055,8 @@
     "typeForm": "X6kgjm2a",
     "identificador": "10",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg"
     ],
     "formulario": [
       {
@@ -1239,7 +1248,8 @@
     "typeForm": "wb3G37Lm",
     "identificador": "11",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg"
     ],
     "formulario": [
       {
@@ -1438,7 +1448,8 @@
     "typeForm": "I575TmjX",
     "identificador": "12",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg"
     ],
     "formulario": [
       {
@@ -1610,7 +1621,8 @@
     "typeForm": "bCKJdqdN",
     "identificador": "13",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg"
     ],
     "formulario": [
       {
@@ -1902,7 +1914,8 @@
     "typeForm": "g2vk3uv0",
     "identificador": "14",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg"
     ],
     "formulario": [
       {
