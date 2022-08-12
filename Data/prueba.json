@@ -1102,8 +1102,8 @@
               "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
-              "Sí, lo conozco",
-              "No lo recuerdo ahora mismo"
+              "Sí",
+              "No"
             ],
             "imgId": [
               "convenio-Si",
