@@ -975,10 +975,10 @@
     "nombre": "Travel Flex",
     "principal": "no",
     "descripcion": "El seguro de asistencia TravelFlex te da la tranquilidad necesaria frente a aquellos incidentes que puedan ocurrir durante el viaje programado, desde la pérdida del equipaje hasta lesiones o enfermedad.",
-    "paraQuien": "",
-    "porQue": "",
-    "coberturasDestacadas": "",
-    "casoReal": "",
+    "paraQuien": "test",
+    "porQue": "test",
+    "coberturasDestacadas": "test",
+    "casoReal": "test",
     "tipo": "seguro",
     "modalidades": "",
     "typeForm": "Q27BS73p",
@@ -1111,8 +1111,8 @@
               "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
-              "Sí, lo conozco",
-              "No lo recuerdo ahora mismo"
+              "Sí",
+              "No"
             ],
             "imgId": [
               "convenio-Si",
@@ -1197,20 +1197,32 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Dirección",
-            "id": "direccion",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Código Postal",
             "id": "codigopostal",
             "preguntasDependientes": []
           },
           {
             "tipoPregunta": "textoLibre",
+            "texto": "Dirección",
+            "id": "direccion",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Prefijo",
+            "id": "prefijo",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
             "texto": "Teléfono",
             "id": "telefono",
+            "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
