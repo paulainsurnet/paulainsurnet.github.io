@@ -2098,10 +2098,11 @@
                 "texto": "Domicilio"
               },
               {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "texto": "Prefijo",
-                "id": "prefijo",
-                "preguntasDependientes": []
+                "id": "prefijo"
               },
               {
                 "dependentId": "tomador-Si",
@@ -2111,10 +2112,11 @@
                 "texto": "Teléfono"
               },
               {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
                 "tipoPregunta": "textoLibre",
                 "texto": "Fecha Efecto",
-                "id": "fechaEfecto",
-                "preguntasDependientes": []
+                "id": "fechaEfecto"
               },
               {
                 "dependentId": "tomador-Si",
