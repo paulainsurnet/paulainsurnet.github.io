@@ -2014,12 +2014,6 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
-            "id": "fechaEfecto",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Correo electrónico",
             "id": "correo",
             "preguntasDependientes": []
@@ -2115,13 +2109,6 @@
                 "dependentId": "tomador-Si",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
-                "texto": "Fecha Efecto",
-                "id": "fechaEfecto"
-              },
-              {
-                "dependentId": "tomador-Si",
-                "condicion": "selected",
-                "tipoPregunta": "textoLibre",
                 "id": "correoas",
                 "texto": "Correo electrónico"
               },
@@ -2158,6 +2145,12 @@
                 "texto": "Indicar los beneficiarios"
               }
             ]
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Fecha Efecto",
+            "id": "fechaEfecto",
+            "preguntasDependientes": []
           },
           {
             "tipoPregunta": "checkBox",
