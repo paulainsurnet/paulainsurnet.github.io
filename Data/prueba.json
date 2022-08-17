@@ -1318,7 +1318,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Transportas mercancías peligrosas (ADR)?",
             "id": "peligrosas",
@@ -1337,7 +1337,7 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Se transportan mercancías que precisan control de temperatura? ",
             "id": "temperatura",
