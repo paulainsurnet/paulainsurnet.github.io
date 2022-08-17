@@ -1957,24 +1957,13 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "pictureOptions",
-            "optionType": "exclusive",
+            "tipoPregunta": "selector",
             "texto": "Indique el límite de indemnización para accidentes, fallecimiento o invalidez que desea.",
-            "id": "limiteIndemnizaciónfoto",
-            "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$$.png"
-            ],
-            "imgText": [
+            "id": "limiteIndemnización",
+            "posiblesValores": [
               "VIP: 100.000 €",
               "Master: 200.000 €",
               "Premium: 300.000 €"
-            ],
-            "imgId": [
-              "limite-low",
-              "limite-mid",
-              "limite-high"
             ],
             "preguntasDependientes": []
           }
