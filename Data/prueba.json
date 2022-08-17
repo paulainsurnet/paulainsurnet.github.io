@@ -659,6 +659,12 @@
             "texto": "CIF/NIF",
             "id": "cif-nif",
             "preguntasDependientes": []
+          },
+          {
+            "tipoPregunta": "textoLibre",
+            "texto": "Volumen de facturación",
+            "id": "volumenFacturacion",
+            "preguntasDependientes": []
           }
         ]
       },
