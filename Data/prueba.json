@@ -2092,6 +2092,52 @@
                 "tipoPregunta": "textoLibre",
                 "texto": "Prefijo",
                 "id": "prefijo"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "telefonoas",
+                "texto": "Teléfono"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "correoas",
+                "texto": "Correo electrónico"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "nacimientoas",
+                "texto": "Fecha de nacimiento del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "selector",
+                "id": "sexoas",
+                "texto": "Sexo",
+                "posiblesValores": [
+                  "Hombre",
+                  "Mujer"
+                ]
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "profesionas",
+                "texto": "Profesión/Actividad declarada del asegurado"
+              },
+              {
+                "dependentId": "tomador-Si",
+                "condicion": "selected",
+                "tipoPregunta": "textoLibre",
+                "id": "beneficiarios",
+                "texto": "Indicar los beneficiarios"
               }
             ]
           },
