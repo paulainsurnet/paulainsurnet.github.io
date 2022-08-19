@@ -2009,12 +2009,6 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
-            "id": "fechaEfecto",
-            "preguntasDependientes": []
-          },
-          {
-            "tipoPregunta": "textoLibre",
             "texto": "Correo electrónico",
             "id": "correo",
             "preguntasDependientes": []
