@@ -2034,7 +2034,7 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "pictureOptions",
+            "tipoPregunta": "simpleQuestion",
             "optionType": "exclusive",
             "texto": "¿Tomador y asegurado son personas diferentes? ",
             "id": "tomador",
@@ -2049,6 +2049,9 @@
             "imgId": [
               "tomador-Si",
               "tomador-No"
+            ],
+            "valido": [
+              "si"
             ],
             "preguntasDependientes": [
               {
