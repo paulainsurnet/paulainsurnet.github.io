@@ -346,7 +346,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -603,7 +603,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -761,7 +761,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -963,7 +963,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1034,7 +1034,7 @@
         "preguntas": [
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1239,7 +1239,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1439,7 +1439,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7'' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1612,7 +1612,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -1905,7 +1905,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
@@ -2152,7 +2152,7 @@
           },
           {
             "tipoPregunta": "checkBox",
-            "texto": "He leído y acepto la <a href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
+            "texto": "He leído y acepto la <a style='color: #009EF7' href='https://www.insurceo.com/politicaPrivacidad'>Política de Privacidad</a>",
             "id": "politica",
             "preguntasDependientes": []
           },
