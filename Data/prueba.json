@@ -2093,8 +2093,8 @@
                 "dependentId": "tomador-Si",
                 "condicion": "selected",
                 "tipoPregunta": "textoLibre",
-                "texto": "Prefijo",
-                "id": "prefijo"
+                "id": "prefijo",
+                "texto": "Prefijo"
               },
               {
                 "dependentId": "tomador-Si",
