@@ -131,7 +131,8 @@
     "identificador": "5",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDañosMateriales.svg"
     ],
     "formulario": [
       {
@@ -374,7 +375,8 @@
     "identificador": "6",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descVida.svg"
     ],
     "formulario": [
       {
@@ -631,7 +633,8 @@
     "identificador": "7",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descRCGeneral.svg"
     ],
     "formulario": [
       {
@@ -789,7 +792,8 @@
     "identificador": "8",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descSaludColectivos.svg"
     ],
     "formulario": [
       {
@@ -875,9 +879,9 @@
                 "id": "retribucionsi",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Con+copago.svg",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Con+copago-1.svg",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Sin+copago+y+reembolso.svg"
                 ],
                 "imgText": [
                   "Cuadro Médico + Reembolso.",
@@ -991,7 +995,8 @@
     "identificador": "9",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descTravelFlex.svg"
     ],
     "formulario": [
       {
@@ -1062,7 +1067,8 @@
     "identificador": "10",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descAccidentesConvenio.svg"
     ],
     "formulario": [
       {
@@ -1267,7 +1273,8 @@
     "identificador": "11",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descTransportemercancias.svg"
     ],
     "formulario": [
       {
@@ -1467,7 +1474,8 @@
     "identificador": "12",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descFlotaVehiculos.svg"
     ],
     "formulario": [
       {
@@ -1640,7 +1648,8 @@
     "identificador": "13",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descResponsabilidadMedioambiental.svg"
     ],
     "formulario": [
       {
@@ -1933,7 +1942,8 @@
     "identificador": "14",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descProteccionDirectivos.svg"
     ],
     "formulario": [
       {
