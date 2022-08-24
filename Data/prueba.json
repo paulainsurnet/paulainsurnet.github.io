@@ -92,6 +92,7 @@
     "coberturasDestacadas": "<ul><li  class='li-img'>Fuga de datos</li><li  class='li-img'>Fallo de seguridad</li><li  class='li-img'>Errores humanos</li><li  class='li-img'>Extorsión</li><li  class='li-img'>Interrupción del negocio</li></ul>",
     "casoReal": "Un empleado que trabaja en una cadena de ópticas recibió un correo alegando que le habían cazado excediendo el límite de velocidad. Por este motivo, el empleado hizo clic en un enlace para ver la supuesta foto de la infracción. Al poco tiempo, recibe un correo explicando que su sistema había sido infectado con un virus que encriptaba todos los archivos del servidor de todas las clínicas. Los datos intervenidos contenían información de pacientes y el software necesario para el funcionamiento del negocio. <br> <br> Los delincuentes solicitaban más de 3.000€ en Bitcoins para liberar sus datos, pero nuestros asesores se involucraron en las negociaciones. Finalmente, sólo se pudo recuperar el 90% de los archivos y el cliente tuvo que contratar una empresa informática externa para recuperar el restante. Se cubrieron los costes por interrupción del negocio ya que estuvieron varios días sin poder dar servicio a sus clientes. Costes cubiertos: 60.000€.",
     "tipo": "seguro",
+    "url_form": "https://cotizaciones.insurceo.com/packs/6/form",
     "modalidades": "",
     "typeForm": "idhfIoIN",
     "identificador": "3",
