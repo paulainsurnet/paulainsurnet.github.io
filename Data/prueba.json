@@ -132,7 +132,7 @@
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDa%C3%B1osMateriales.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDañosMateriales.svg"
     ],
     "formulario": [
       {
@@ -879,9 +879,9 @@
                 "id": "retribucionsi",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Sin+copago+y+reembolso.svg",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Sin+copago.svg",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Con+copago.svg"
                 ],
                 "imgText": [
                   "Cuadro Médico + Reembolso.",
@@ -902,9 +902,9 @@
                 "id": "retribucionno",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Sin+copago+y+reembolso.svg",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Sin+copago.svg",
+                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/Con+copago.svg"
                 ],
                 "imgText": [
                   "Cuadro Médico + Reembolso.",
