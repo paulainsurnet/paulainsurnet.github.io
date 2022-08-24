@@ -335,8 +335,8 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
-            "id": "fechaEfecto",
+            "texto": "Fecha Efecto<i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
+            "id": "fechaEfecto" ,
             "preguntasDependientes": []
           },
           {
@@ -593,7 +593,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -752,7 +752,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -955,7 +955,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1236,7 +1236,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1443,7 +1443,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1617,7 +1617,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1900,7 +1900,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -2154,7 +2154,7 @@
           },
           {
             "tipoPregunta": "textoLibre",
-            "texto": "Fecha Efecto",
+            "texto": "Fecha Efecto <i class='fa-solid fa-circle-info' style='color:#ffe900;' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
