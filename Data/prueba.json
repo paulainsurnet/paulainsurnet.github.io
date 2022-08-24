@@ -1823,24 +1823,13 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
-            "optionType": "exclusive",
+            "tipoPregunta": "selector",
             "texto": "Escoge el capital que desea asegurar.",
             "id": "cantcapital",
-            "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$$.png"
-            ],
-            "imgText": [
+            "posiblesValores": [
               "300.000 €",
               "600.000 €",
               "1.000.000 €"
-            ],
-            "imgId": [
-              "cantcapital-low",
-              "cantcapital-mid",
-              "cantcapital-high"
             ],
             "preguntasDependientes": []
           },
