@@ -258,7 +258,7 @@
               "garantiaRCG-no"
             ],
             "valido": [
-              "no"
+              "si"
             ],
             "preguntasDependientes": []
           },
@@ -437,7 +437,7 @@
               "accidente-no"
             ],
             "valido": [
-              "no"
+              "si"
             ],
             "preguntasDependientes": []
           },
@@ -481,7 +481,7 @@
               "incapacidad-no"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": [
               {
@@ -504,7 +504,7 @@
                   "incapacidad-no1foto"
                 ],
                 "valido": [
-                  "no"
+                  "si"
                 ]
               },
               {
@@ -550,7 +550,7 @@
                   "incapacidad-no3foto3"
                 ],
                 "valido": [
-                  "no"
+                  "si"
                 ]
               }
             ]
@@ -694,7 +694,7 @@
               "reclam-No"
             ],
             "valido": [
-              "no"
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -864,7 +864,7 @@
               "retribucion-No"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": [
               {
@@ -1124,6 +1124,9 @@
               "convenio-Si",
               "convenio-No"
             ],
+            "valido": [
+              ""
+            ],
             "preguntasDependientes": [
               {
                 "dependentId": "convenio-Si",
@@ -1179,7 +1182,7 @@
               "dispo-empleados-No"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": [
               {
@@ -1334,6 +1337,9 @@
               "peligrosas-Si",
               "peligrosas-No"
             ],
+            "valido": [
+              ""
+            ],
             "preguntasDependientes": []
           },
           {
@@ -1352,6 +1358,9 @@
             "imgId": [
               "temperatura-Si",
               "temperatura-No"
+            ],
+            "valido": [
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -1691,7 +1700,7 @@
               "espacio-No"
             ],
             "valido": [
-              "no"
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -1713,7 +1722,7 @@
               "situacionriesgo-No"
             ],
             "valido": [
-              "no"
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -1735,7 +1744,7 @@
               "situaciondireccion-No"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": [
               {
@@ -1765,7 +1774,7 @@
               "contaminacion-No"
             ],
             "valido": [
-              "no"
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -1787,7 +1796,7 @@
               "tanqueareo-No"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -1809,7 +1818,7 @@
               "toneladas-No"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": []
           },
@@ -1853,7 +1862,7 @@
               "coberturatrans-No"
             ],
             "valido": [
-              "no"
+              ""
             ],
             "preguntasDependientes": []
           }
@@ -2051,7 +2060,7 @@
               "tomador-No"
             ],
             "valido": [
-              "si"
+              ""
             ],
             "preguntasDependientes": [
               {
