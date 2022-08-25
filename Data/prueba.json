@@ -83,7 +83,8 @@
     "identificador": "2",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDO.svg"
     ]
   },
   {
@@ -101,7 +102,8 @@
     "identificador": "3",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descCyber.svg"
     ]
   },
   {
@@ -119,7 +121,8 @@
     "identificador": "4",
     "imagenes": [
       "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg"
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg",
+      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descRCProfesional.svg"
     ]
   },
   {
