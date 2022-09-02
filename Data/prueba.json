@@ -181,26 +181,17 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "pictureOptions",
-            "optionType": "exclusive",
+            "tipoPregunta": "selector",
             "texto": "Régimen",
             "id": "regimen",
-            "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
-            ],
-            "imgText": [
+            "posiblesValores": [
               "Inquilino",
               "Propietario"
             ],
-            "imgId": [
-              "regimen-inquilino",
-              "regimen-propietario"
-            ],
             "preguntasDependientes": [
               {
-                "dependentId": "regimen-inquilino",
-                "condicion": "selected",
+                "condicionOperador": "==",
+                "condicion": "Inquilino",
                 "tipoPregunta": "textoLibre",
                 "id": "regimen-text",
                 "texto": "Obras de reforma"
