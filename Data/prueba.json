@@ -217,27 +217,14 @@
             "preguntasDependientes": []
           },
           {
-            "tipoPregunta": "pictureOptions",
-            "optionType": "inclusive",
+            "tipoPregunta": "selector",
             "texto": "Indica que medidas contra incendio y robo tienes",
             "id": "rob&firemesures",
-            "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
-            ],
-            "imgText": [
+            "posiblesValores": [
               "Extintores",
               "BIES",
               "Huecos de fácil acceso protegido (cierre metálico, rejas, ...)",
               "Alarma conectada a central"
-            ],
-            "imgId": [
-              "rob&firemesures-Extintor",
-              "rob&firemesures-BIES",
-              "rob&firemesures-Huecos",
-              "rob&firemesures-Alarma"
             ],
             "preguntasDependientes": []
           },
@@ -336,8 +323,8 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
-            "id": "fechaEfecto" ,
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
+            "id": "fechaEfecto",
             "preguntasDependientes": []
           },
           {
@@ -409,7 +396,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha de nacimiento",
-            "id": "birthdate", 
+            "id": "birthdate",
             "preguntasDependientes": []
           }
         ]
@@ -595,7 +582,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -755,7 +742,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -877,48 +864,28 @@
               {
                 "dependentId": "retribucion-Si",
                 "condicion": "selected",
-                "tipoPregunta": "pictureOptions",
-                "optionType": "exclusive",
-                "id": "retribucionsi",
+                "tipoPregunta": "selector",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
-                "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
-                ],
-                "imgText": [
+                "id": "retribucionsi",
+                "posiblesValores": [
                   "Cuadro Médico + Reembolso.",
                   "Cuadro Médico sin Copago.",
                   "Cuadro Médico con Copago."
                 ],
-                "imgId": [
-                  "reembolossi",
-                  "sicopagosi",
-                  "nocopagosi"
-                ]
+                "preguntasDependientes": []
               },
               {
                 "dependentId": "retribucion-No",
                 "condicion": "selected",
-                "tipoPregunta": "pictureOptions",
-                "optionType": "exclusive",
-                "id": "retribucionno",
+                "tipoPregunta": "selector",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
-                "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
-                ],
-                "imgText": [
+                "id": "retribucionno",
+                "posiblesValores": [
                   "Cuadro Médico + Reembolso.",
                   "Cuadro Médico sin Copago.",
                   "Cuadro Médico con Copago."
                 ],
-                "imgId": [
-                  "reembolosno",
-                  "sicopagono",
-                  "nocopagono"
-                ]
+                "preguntasDependientes": []
               }
             ]
           }
@@ -959,7 +926,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1241,7 +1208,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1449,7 +1416,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1524,63 +1491,48 @@
       {
         "preguntas": [
           {
-            "tipoPregunta": "pictureOptions",
-            "optionType": "inclusive",
+            "tipoPregunta": "selector",
             "texto": "Indícanos de qué tipo está compuesta tu flota de vehículos",
             "id": "composicion",
-            "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
-            ],
-            "imgText": [
+            "posiblesValores": [
               "Turismos",
               "Furgonetas",
               "Camiones",
               "Vehículos Industriales",
               "Otro"
             ],
-            "imgId": [
-              "turismo",
-              "furgoneta",
-              "camion",
-              "industrial",
-              "otro"
-            ],
             "preguntasDependientes": [
               {
-                "dependentId": "turismo",
-                "condicion": "selected",
+                "condicionOperador": "==",
+                "condicion": "Turismos",
                 "tipoPregunta": "textoLibre",
                 "id": "turismo-text",
                 "texto": "Indícanos el número de turismos que tienes."
               },
               {
-                "dependentId": "furgoneta",
-                "condicion": "selected",
+                "condicionOperador": "==",
+                "condicion": "Furgonetas",
                 "tipoPregunta": "textoLibre",
                 "id": "furgoneta-text",
                 "texto": "Indícanos el número de furgonetas que tienes."
               },
               {
-                "dependentId": "camion",
-                "condicion": "selected",
+                "condicionOperador": "==",
+                "condicion": "Camiones",
                 "tipoPregunta": "textoLibre",
                 "id": "camion-text",
                 "texto": "Indícanos el número de camiones que tienes."
               },
               {
-                "dependentId": "industrial",
-                "condicion": "selected",
+                "condicionOperador": "==",
+                "condicion": "Vehículos Industriales",
                 "tipoPregunta": "textoLibre",
                 "id": "industrial-text",
                 "texto": "Indícanos el número de vehículos industriales que tienes."
               },
               {
-                "dependentId": "otro",
-                "condicion": "selected",
+                "condicionOperador": "==",
+                "condicion": "Otro",
                 "tipoPregunta": "textoLibre",
                 "id": "otro-text",
                 "texto": "Indícanos el número de los otros vehículos que tienes."
@@ -1624,7 +1576,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -1908,7 +1860,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
@@ -2163,7 +2115,7 @@
           {
             "tipoPregunta": "textoLibre",
             "texto": "Fecha Efecto <i class='iconInfo' data-bs-toggle='tooltip' data-bs-placement='right' title='Máximo 1 mes'></i>",
-            "texto_movil":"Fecha Efecto (Máx 1 mes)",
+            "texto_movil": "Fecha Efecto (Máx 1 mes)",
             "id": "fechaEfecto",
             "preguntasDependientes": []
           },
