@@ -182,6 +182,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Régimen",
             "id": "regimen",
             "posiblesValores": [
@@ -218,6 +219,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "inclusive",
             "texto": "Indica que medidas contra incendio y robo tienes",
             "id": "rob&firemesures",
             "posiblesValores": [
@@ -692,6 +694,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Indique el límite de indemnización que desea",
             "id": "limiteIndemnización",
             "posiblesValores": [
@@ -818,6 +821,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Indica dónde se encuentra la empresa",
             "id": "posempresa",
             "posiblesValores": [
@@ -865,6 +869,7 @@
                 "dependentId": "retribucion-Si",
                 "condicion": "selected",
                 "tipoPregunta": "selector",
+                "type": "exclusive",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "id": "retribucionsi",
                 "posiblesValores": [
@@ -878,6 +883,7 @@
                 "dependentId": "retribucion-No",
                 "condicion": "selected",
                 "tipoPregunta": "selector",
+                "type": "exclusive",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "id": "retribucionno",
                 "posiblesValores": [
@@ -994,6 +1000,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Tipo de viaje",
             "id": "viaje",
             "posiblesValores": [
@@ -1116,6 +1123,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "¿En qué comunidad autónoma lleva a cabo su actividad?",
             "id": "comunidad",
             "posiblesValores": [
@@ -1290,6 +1298,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Quieres dar cobertura a las mercancías como:",
             "id": "cobertura",
             "posiblesValores": [
@@ -1351,6 +1360,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Ámbito geográfico",
             "id": "ambitor",
             "posiblesValores": [
@@ -1371,6 +1381,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Modalidad",
             "id": "modalidad",
             "posiblesValores": [
@@ -1492,6 +1503,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
+            "type": "inclusive",
             "texto": "Indícanos de qué tipo está compuesta tu flota de vehículos",
             "id": "composicion",
             "posiblesValores": [
@@ -1792,6 +1804,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Escoge el capital que desea asegurar.",
             "id": "cantcapital",
             "posiblesValores": [
@@ -1926,6 +1939,7 @@
         "preguntas": [
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Indique el límite de indemnización para accidentes, fallecimiento o invalidez que desea.",
             "id": "limiteIndemnización",
             "posiblesValores": [
@@ -1989,6 +2003,7 @@
           },
           {
             "tipoPregunta": "selector",
+            "type": "exclusive",
             "texto": "Sexo",
             "id": "sexo",
             "posiblesValores": [
@@ -2089,6 +2104,7 @@
                 "dependentId": "tomador-Si",
                 "condicion": "selected",
                 "tipoPregunta": "selector",
+                "type": "exclusive",
                 "id": "sexoas",
                 "texto": "Sexo",
                 "posiblesValores": [
