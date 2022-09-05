@@ -7,8 +7,8 @@
                 "texto": "Régimen",
                 "id": "regimen",
                 "img": [
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
                 ],
                 "imgText": [
                     "Inquilino",
@@ -34,10 +34,10 @@
                 "texto": "Indica que medidas contra incendio y robo tienes",
                 "id": "rob&firemesures",
                 "img": [
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
                 ],
                 "imgText": [
                     "Extintores",
@@ -65,9 +65,9 @@
                 "id": "retribucionsi",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "img": [
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
                     "Cuadro Médico + Reembolso.",
@@ -88,9 +88,9 @@
                 "id": "retribucionno",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "img": [
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
                     "Cuadro Médico + Reembolso.",
@@ -113,11 +113,11 @@
                 "texto": "Indícanos de qué tipo está compuesta tu flota de vehículos",
                 "id": "composicion",
                 "img": [
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
-                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
+                    "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
                 ],
                 "imgText": [
                     "Turismos",

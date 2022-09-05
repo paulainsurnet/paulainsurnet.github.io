@@ -13,9 +13,9 @@
     "typeForm": "",
     "identificador": "1",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/core4x1Blanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descCORE4X1_1.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/core4x1Blanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descCORE4X1_1.svg"
     ]
   },
   {
@@ -83,9 +83,9 @@
     "typeForm": "qL4gDcK0",
     "identificador": "2",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDO.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/DO.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDO.svg"
     ]
   },
   {
@@ -102,9 +102,9 @@
     "typeForm": "idhfIoIN",
     "identificador": "3",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descCyber.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descCyber.svg"
     ]
   },
   {
@@ -121,9 +121,9 @@
     "typeForm": "O1GLjMI6",
     "identificador": "4",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descRCProfesional.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descRCProfesional.svg"
     ]
   },
   {
@@ -139,9 +139,9 @@
     "typeForm": "VxWf4P",
     "identificador": "5",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDañosMateriales.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descDañosMateriales.svg"
     ],
     "formulario": [
       {
@@ -364,9 +364,9 @@
     "typeForm": "ZbBwG1",
     "identificador": "6",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descVida.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descVida.svg"
     ],
     "formulario": [
       {
@@ -623,9 +623,9 @@
     "typeForm": "ZOkibqpF",
     "identificador": "7",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descRCGeneral.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descRCGeneral.svg"
     ],
     "formulario": [
       {
@@ -778,15 +778,15 @@
     "paraQuien": "Este sistema está dirigido a todo el personal de una empresa. <br> <br> En función de las características y necesidades de cada empleado, podrá elegir qué partida es la que más le conviene y, por lo tanto, destinar parte de su salario a ello.",
     "porQue": "La retribución flexible tiene muchas ventajas. Entre ellas, podemos encontrar: <ul><li  class='li-img'>La empresa no incurre en ningún tipo de coste económico.</li><li  class='li-img'>Aumenta la retribución neta de los empleados sin aumentar los costes salariales.</li><li  class='li-img'>Ayuda a la conciliación familiar.</li><li  class='li-img'>Supone un ahorro para los empleados. Accediendo a servicios con ventajas fiscales, que permiten a final de mes percibir un salario neto mayor</li><li  class='li-img'>Mejora la imagen de la empresa ofreciendo servicios que otra empresa puede no estar ofreciendo y, por lo tanto, aumentando la buena percepción que tienen los trabajadores sobre la empresa.</li><li  class='li-img'>Favorece la retención de talento. La retribución flexible puede ser un punto clave a tener en cuenta a la hora de decantarse por una empresa u otra.</li><li  class='li-img'>Es un plan voluntario, puede adherirse a él quien lo prefiera y elegir las partidas que más le convengan.</li></ul>",
     "coberturasDestacadas": "El empleado puede destinar hasta un 30% de su salario bruto anual en los siguientes servicios, con los límites y excepciones establecidos en la ley (LIRPF). De manera general: <ul><li  class='li-img'>RestaurantE Pass: Hasta 11 € diarios</li><li  class='li-img'>Transporte Pass: Hasta 1.500 € en servicios de transporte público</li><li  class='li-img'>Guardería Pass: 100% exento de IRPF</li><li  class='li-img'>Formación Pass: 100% exento de IRPF</li><li  class='li-img'>Seguro de salud: 500€ por beneficiario</li></ul>",
-    "casoReal": "<img src='https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/coberturasSalud.svg' class='responsive' />",
+    "casoReal": "<img src='https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/coberturasSalud.svg' class='responsive' />",
     "tipo": "seguro",
     "modalidades": "",
     "typeForm": "g0BZ7tO8",
     "identificador": "8",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descSaludColectivos.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descSaludColectivos.svg"
     ],
     "formulario": [
       {
@@ -971,9 +971,9 @@
     "typeForm": "Q27BS73p",
     "identificador": "9",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descTravelFlex.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descTravelFlex.svg"
     ],
     "formulario": [
       {
@@ -1044,9 +1044,9 @@
     "typeForm": "X6kgjm2a",
     "identificador": "10",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descAccidentesConvenio.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descAccidentesConvenio.svg"
     ],
     "formulario": [
       {
@@ -1255,9 +1255,9 @@
     "typeForm": "wb3G37Lm",
     "identificador": "11",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descTransportemercancias.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descTransportemercancias.svg"
     ],
     "formulario": [
       {
@@ -1466,9 +1466,9 @@
     "typeForm": "I575TmjX",
     "identificador": "12",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descFlotaVehiculos.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descFlotaVehiculos.svg"
     ],
     "formulario": [
       {
@@ -1627,9 +1627,9 @@
     "typeForm": "bCKJdqdN",
     "identificador": "13",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descResponsabilidadMedioambiental.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descResponsabilidadMedioambiental.svg"
     ],
     "formulario": [
       {
@@ -1905,16 +1905,16 @@
     "descripcion": "El seguro de protección de directivos es un seguro de tipo personal que se encarga de proteger de forma integral al asegurado de riesgos como: accidentes personales, cancelación de saldos pendientes, ...",
     "paraQuien": "El seguro está encaminado a proteger a Altos Cargos, Administradores y Directivos de diferentes empresas.",
     "porQue": "Son muchas las ventajas de las que puede disfrutar una persona si contrata el seguro: <ul><li  class='li-img'>Es un seguro muy completo con un amplio abanico de coberturas y capitales asegurados adaptados a las necesidades del asegurado.</li><li  class='li-img'>Cobertura 24 horas y con ámbito mundial.</li><li  class='li-img'>Asesoramiento directo y personalizado por parte de un gran equipo de expertos.</li><li  class='li-img'>Dispone de unas coberturas complementarias de Responsabilidad de Administradores y Directivos (D&O).</li><li  class='li-img'>Existe la posibilidad de elegir el capital que mejor se adapte a sus necesidades.</li></ul> Muchas veces las empresas tienen trabajadores que son piezas fundamentales para el desarrollo de la actividad. Por ello, se podría ofrecer este tipo de seguro como un beneficio o plus por su trabajo de forma que tenga más razones por las que quedarse en la empresa, sintiéndose así más valorado.",
-    "coberturasDestacadas": "<ul><li  class='li-img'>Accidentes personales</li><li  class='li-img'>Protección de estudios para hijos menores</li><li  class='li-img'>Cancelación de saldos pendientes</li><li  class='li-img'>Asistencia psicológica</li><li  class='li-img'>Asistencia de viaje</li></ul> <img src='https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
+    "coberturasDestacadas": "<ul><li  class='li-img'>Accidentes personales</li><li  class='li-img'>Protección de estudios para hijos menores</li><li  class='li-img'>Cancelación de saldos pendientes</li><li  class='li-img'>Asistencia psicológica</li><li  class='li-img'>Asistencia de viaje</li></ul> <img src='https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
     "casoReal": "Un directivo sufrió un accidente automovilístico en un viaje de negocios, ante el terrible accidente tuvo que ir al hospital. Días después, tras darle el alta, se vio tan afectado que necesitaba asistencia psicológica. El seguro de Protección de directivos le cubrió tanto la asistencia en su viaje de negocios como el accidente y la asistencia psicológica.",
     "tipo": "seguro",
     "modalidades": "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg",
     "typeForm": "g2vk3uv0",
     "identificador": "14",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descProteccionDirectivos.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/Iconos/descProteccionDirectivos.svg"
     ],
     "formulario": [
       {
