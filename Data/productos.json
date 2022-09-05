@@ -12,7 +12,7 @@
         "typeForm": "",
         "identificador": "1",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg"
         ]
     },
     {
@@ -28,7 +28,7 @@
         "typeForm": "PWRFfyi5",
         "identificador": "1",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/RCInfluencers.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/RCInfluencers.svg"
         ],
         "url": "https://www.insurceo.com/producto?Influencer"
     },
@@ -45,7 +45,7 @@
         "typeForm": "",
         "identificador": "1",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/RCAgentesInmobiliarios.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/RCAgentesInmobiliarios.svg"
         ],
         "url": "https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes"
     },
@@ -62,7 +62,7 @@
         "typeForm": "",
         "identificador": "1",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CiberHoteles.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/CiberHoteles.svg"
         ],
         "url": "https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles"
     },
@@ -79,7 +79,7 @@
         "typeForm": "qL4gDcK0",
         "identificador": "2",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/DO.svg"
         ]
     },
     {
@@ -95,7 +95,7 @@
         "typeForm": "idhfIoIN",
         "identificador": "3",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg"
         ]
     },
     {
@@ -111,7 +111,7 @@
         "typeForm": "O1GLjMI6",
         "identificador": "4",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg"
         ]
     },
     {
@@ -127,7 +127,7 @@
         "typeForm": "VxWf4P",
         "identificador": "5",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg"
         ]
     },
     {
@@ -143,7 +143,7 @@
         "typeForm": "ZbBwG1",
         "identificador": "6",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg"
         ]
     },
     {
@@ -159,7 +159,7 @@
         "typeForm": "ZOkibqpF",
         "identificador": "7",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg"
         ]
     },
     {
@@ -169,13 +169,13 @@
         "paraQuien": "Este sistema está dirigido a todo el personal de una empresa. <br> <br> En función de las características y necesidades de cada empleado, podrá elegir qué partida es la que más le conviene y, por lo tanto, destinar parte de su salario a ello.",
         "porQue": "La retribución flexible tiene muchas ventajas. Entre ellas, podemos encontrar: <ul><li>La empresa no incurre en ningún tipo de coste económico.</li><li>Aumenta la retribución neta de los empleados sin aumentar los costes salariales.</li><li>Ayuda a la conciliación familiar.</li><li>Supone un ahorro para los empleados. Accediendo a servicios con ventajas fiscales, que permiten a final de mes percibir un salario neto mayor</li><li>Mejora la imagen de la empresa ofreciendo servicios que otra empresa puede no estar ofreciendo y, por lo tanto, aumentando la buena percepción que tienen los trabajadores sobre la empresa.</li><li>Favorece la retención de talento. La retribución flexible puede ser un punto clave a tener en cuenta a la hora de decantarse por una empresa u otra.</li><li>Es un plan voluntario, puede adherirse a él quien lo prefiera y elegir las partidas que más le convengan.</li></ul>",
         "coberturasDestacadas": "El empleado puede destinar hasta un 30% de su salario bruto anual en los siguientes servicios, con los límites y excepciones establecidos en la ley (LIRPF). De manera general: <ul><li>RestaurantE Pass: Hasta 11 € diarios</li><li>Transporte Pass: Hasta 1.500 € en servicios de transporte público</li><li>Guardería Pass: 100% exento de IRPF</li><li>Formación Pass: 100% exento de IRPF</li><li>Seguro de salud: 500€ por beneficiario</li></ul>",
-        "casoReal": "<img src='https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/coberturasSalud.svg' class='responsive' />",
+        "casoReal": "<img src='https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/coberturasSalud.svg' class='responsive' />",
         "tipo": "seguro",
         "modalidades": "",
         "typeForm": "g0BZ7tO8",
         "identificador": "8",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg"
         ]
     },
     {
@@ -191,7 +191,7 @@
         "typeForm": "Q27BS73p",
         "identificador": "9",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg"
         ]
     },
     {
@@ -207,7 +207,7 @@
         "typeForm": "X6kgjm2a",
         "identificador": "10",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg"
         ]
     },
     {
@@ -223,7 +223,7 @@
         "typeForm": "wb3G37Lm",
         "identificador": "11",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg"
         ]
     },
     {
@@ -239,7 +239,7 @@
         "typeForm": "I575TmjX",
         "identificador": "12",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg"
         ]
     },
     {
@@ -255,7 +255,7 @@
         "typeForm": "bCKJdqdN",
         "identificador": "13",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg"
         ]
     },
     {
@@ -264,14 +264,14 @@
         "descripcion": "El seguro de protección de directivos es un seguro de tipo personal que se encarga de proteger de forma integral al asegurado de riesgos como: accidentes personales, cancelación de saldos pendientes, ...",
         "paraQuien": "El seguro está encaminado a proteger a Altos Cargos, Administradores y Directivos de diferentes empresas.",
         "porQue": "Son muchas las ventajas de las que puede disfrutar una persona si contrata el seguro: <ul><li>Es un seguro muy completo con un amplio abanico de coberturas y capitales asegurados adaptados a las necesidades del asegurado.</li><li>Cobertura 24 horas y con ámbito mundial.</li><li>Asesoramiento directo y personalizado por parte de un gran equipo de expertos.</li><li>Dispone de unas coberturas complementarias de Responsabilidad de Administradores y Directivos (D&O).</li><li>Existe la posibilidad de elegir el capital que mejor se adapte a sus necesidades.</li></ul> Muchas veces las empresas tienen trabajadores que son piezas fundamentales para el desarrollo de la actividad. Por ello, se podría ofrecer este tipo de seguro como un beneficio o plus por su trabajo de forma que tenga más razones por las que quedarse en la empresa, sintiéndose así más valorado.",
-        "coberturasDestacadas": "<ul><li>Accidentes personales</li><li>Protección de estudios para hijos menores</li><li>Cancelación de saldos pendientes</li><li>Asistencia psicológica</li><li>Asistencia de viaje</li></ul> <img src='https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
+        "coberturasDestacadas": "<ul><li>Accidentes personales</li><li>Protección de estudios para hijos menores</li><li>Cancelación de saldos pendientes</li><li>Asistencia psicológica</li><li>Asistencia de viaje</li></ul> <img src='https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
         "casoReal": "Un directivo sufrió un accidente automovilístico en un viaje de negocios, ante el terrible accidente tuvo que ir al hospital. Días después, tras darle el alta, se vio tan afectado que necesitaba asistencia psicológica. El seguro de Protección de directivos le cubrió tanto la asistencia en su viaje de negocios como el accidente y la asistencia psicológica.",
         "tipo": "seguro",
-        "modalidades": "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg",
+        "modalidades": "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg",
         "typeForm": "g2vk3uv0",
         "identificador": "14",
         "imagenes": [
-            "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg"
         ]
     },
     {

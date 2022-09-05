@@ -12,7 +12,7 @@
     "typeForm": "",
     "identificador": "1",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/CORE4x1.svg"
     ]
   },
   {
@@ -28,7 +28,7 @@
     "typeForm": "PWRFfyi5",
     "identificador": "1",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/RCInfluencers.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/RCInfluencers.svg"
     ],
     "url": "https://www.insurceo.com/producto?Influencer"
   },
@@ -45,7 +45,7 @@
     "typeForm": "",
     "identificador": "1",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/RCAgentesInmobiliarios.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/RCAgentesInmobiliarios.svg"
     ],
     "url": "https://cotizaciones.insurceo.com/packs/6/form?activity=rcagentes"
   },
@@ -62,7 +62,7 @@
     "typeForm": "",
     "identificador": "1",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/CiberHoteles.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/CiberHoteles.svg"
     ],
     "url": "https://cotizaciones.insurceo.com/packs/2/form?activity=ciberhoteles"
   },
@@ -79,8 +79,8 @@
     "typeForm": "qL4gDcK0",
     "identificador": "2",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/DO.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/DO.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/DOBlanco.svg"
     ]
   },
   {
@@ -96,8 +96,8 @@
     "typeForm": "idhfIoIN",
     "identificador": "3",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/cyber.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/CyberBlanco.svg"
     ]
   },
   {
@@ -113,8 +113,8 @@
     "typeForm": "O1GLjMI6",
     "identificador": "4",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/rcProfesional.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCProfesionalBlanco.svg"
     ]
   },
   {
@@ -130,8 +130,8 @@
     "typeForm": "VxWf4P",
     "identificador": "5",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/danosMateriales.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/DanosMaterialesBlanco.svg"
     ],
     "formulario": [
       {
@@ -176,8 +176,8 @@
             "texto": "Régimen",
             "id": "regimen",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
             ],
             "imgText": [
               "Inquilino",
@@ -221,10 +221,10 @@
             "texto": "Indica que medidas contra incendio y robo tienes",
             "id": "rob&firemesures",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
             ],
             "imgText": [
               "Extintores",
@@ -246,8 +246,8 @@
             "texto": "¿Desea contratar la garantía de Responsabilidad Civil General?",
             "id": "garantiaRCG",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -268,8 +268,8 @@
             "texto": "¿Desea contratar la garantía de cobertura de Pérdida de Beneficios?",
             "id": "garantiaPB",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -373,8 +373,8 @@
     "typeForm": "ZbBwG1",
     "identificador": "6",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/keyman.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/VidaBlanco.svg"
     ],
     "formulario": [
       {
@@ -425,8 +425,8 @@
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente? ",
             "id": "accidente",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -447,8 +447,8 @@
             "texto": "¿Quieres contratar la garantía de fallecimiento por accidente de circulación?",
             "id": "accidente-coche",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -469,8 +469,8 @@
             "texto": "¿Quieres contratar la garantía de incapacidad permanente y absoluta?",
             "id": "incapacidad",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -492,8 +492,8 @@
                 "id": "incapacidad-si1",
                 "texto": "¿Quieres contratar la garantía de incapacidad por accidente?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
                 ],
                 "imgText": [
                   "Sí",
@@ -515,8 +515,8 @@
                 "id": "incapacidad-si2",
                 "texto": "¿Quieres contratar la garantía de incapacidad por accidente de circulación?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
                 ],
                 "imgText": [
                   "Sí",
@@ -538,8 +538,8 @@
                 "id": "incapacidad-si3",
                 "texto": "¿Quieres contratar la garantía de Invalidez Permanente Total para la profesión habitual?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
                 ],
                 "imgText": [
                   "Sí",
@@ -630,8 +630,8 @@
     "typeForm": "ZOkibqpF",
     "identificador": "7",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/rcGeneral.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/RCGeneralBlanco.svg"
     ],
     "formulario": [
       {
@@ -682,8 +682,8 @@
             "texto": "¿Ha tenido reclamaciones en los últimos tres años o tiene constancia de alguna? ",
             "id": "reclamaciones",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -782,14 +782,14 @@
     "paraQuien": "Este sistema está dirigido a todo el personal de una empresa. <br> <br> En función de las características y necesidades de cada empleado, podrá elegir qué partida es la que más le conviene y, por lo tanto, destinar parte de su salario a ello.",
     "porQue": "La retribución flexible tiene muchas ventajas. Entre ellas, podemos encontrar: <ul><li>La empresa no incurre en ningún tipo de coste económico.</li><li>Aumenta la retribución neta de los empleados sin aumentar los costes salariales.</li><li>Ayuda a la conciliación familiar.</li><li>Supone un ahorro para los empleados. Accediendo a servicios con ventajas fiscales, que permiten a final de mes percibir un salario neto mayor</li><li>Mejora la imagen de la empresa ofreciendo servicios que otra empresa puede no estar ofreciendo y, por lo tanto, aumentando la buena percepción que tienen los trabajadores sobre la empresa.</li><li>Favorece la retención de talento. La retribución flexible puede ser un punto clave a tener en cuenta a la hora de decantarse por una empresa u otra.</li><li>Es un plan voluntario, puede adherirse a él quien lo prefiera y elegir las partidas que más le convengan.</li></ul>",
     "coberturasDestacadas": "El empleado puede destinar hasta un 30% de su salario bruto anual en los siguientes servicios, con los límites y excepciones establecidos en la ley (LIRPF). De manera general: <ul><li>RestaurantE Pass: Hasta 11 € diarios</li><li>Transporte Pass: Hasta 1.500 € en servicios de transporte público</li><li>Guardería Pass: 100% exento de IRPF</li><li>Formación Pass: 100% exento de IRPF</li><li>Seguro de salud: 500€ por beneficiario</li></ul>",
-    "casoReal": "<img src='https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/coberturasSalud.svg' class='responsive' />",
+    "casoReal": "<img src='https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/coberturasSalud.svg' class='responsive' />",
     "tipo": "seguro",
     "modalidades": "",
     "typeForm": "g0BZ7tO8",
     "identificador": "8",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/saludColectivos.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/SaludColectivosBlanco.svg"
     ],
     "formulario": [
       {
@@ -852,8 +852,8 @@
             "texto": "¿Tienes implementado un sistema de Retribución Flexible?",
             "id": "retribucion",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -875,9 +875,9 @@
                 "id": "retribucionsi",
                 "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
                   "Cuadro Médico + Reembolso.",
@@ -898,9 +898,9 @@
                 "id": "retribucionno",
                 "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
                 "img": [
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
-                  "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                  "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
                 ],
                 "imgText": [
                   "Cuadro Médico + Reembolso.",
@@ -990,8 +990,8 @@
     "typeForm": "Q27BS73p",
     "identificador": "9",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/travelFlex.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/TravelFlexBlanco.svg"
     ],
     "formulario": [
       {
@@ -1061,8 +1061,8 @@
     "typeForm": "X6kgjm2a",
     "identificador": "10",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/accidentesConvenio.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/AccidentesConvenioBlanco.svg"
     ],
     "formulario": [
       {
@@ -1113,8 +1113,8 @@
             "texto": "¿Conoce qué convenio colectivo se aplica a su empresa?",
             "id": "convenio",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1167,8 +1167,8 @@
             "texto": "¿Dispone de más empleados en otra comunidad autónoma diferente de la seleccionada? ",
             "id": "dispo-empleados",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TUBlue.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TDBlue.png"
             ],
             "imgText": [
               "Sí",
@@ -1266,8 +1266,8 @@
     "typeForm": "wb3G37Lm",
     "identificador": "11",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/transporteMercancias.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/TransporteMercanciasBlanco.svg"
     ],
     "formulario": [
       {
@@ -1323,8 +1323,8 @@
             "texto": "¿Transportas mercancías peligrosas (ADR)?",
             "id": "peligrosas",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1342,8 +1342,8 @@
             "texto": "¿Se transportan mercancías que precisan control de temperatura? ",
             "id": "temperatura",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1466,8 +1466,8 @@
     "typeForm": "I575TmjX",
     "identificador": "12",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/flotaVehiculos.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/FlotaVehiculosBlanco.svg"
     ],
     "formulario": [
       {
@@ -1506,11 +1506,11 @@
             "texto": "Indícanos de qué tipo está compuesta tu flota de vehículos",
             "id": "composicion",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
             ],
             "imgText": [
               "Turismos",
@@ -1639,8 +1639,8 @@
     "typeForm": "bCKJdqdN",
     "identificador": "13",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/responsabilidadMedioambiental.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/ResponsabilidadMedioambientalBlanco.svg"
     ],
     "formulario": [
       {
@@ -1679,8 +1679,8 @@
             "texto": "¿Existe algún espacio protegido a menos de 5km de distancia de la instalación a asegurar?",
             "id": "espacio",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1701,8 +1701,8 @@
             "texto": "El riesgo por asegurar, ¿está formado por más de una situación de riesgo (instalación)? ",
             "id": "situacionriesgo",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1723,8 +1723,8 @@
             "texto": "¿La dirección de la situación del riesgo, ¿es la misma que la del tomador? ",
             "id": "situaciondireccion",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1753,8 +1753,8 @@
             "texto": "¿Existe alguna reclamación y/o siniestro por contaminación hasta la fecha? ",
             "id": "contaminacion",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TD.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/TU.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TD.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/TU.png"
             ],
             "imgText": [
               "Sí",
@@ -1775,8 +1775,8 @@
             "texto": "¿Existe algún tanque aéreo como subterráneo con una antigüedad anterior al año 2000?",
             "id": "tanqueareo",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1797,8 +1797,8 @@
             "texto": "¿Gestiona más de 10 toneladas de residuos al día? ",
             "id": "toneladas",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1819,9 +1819,9 @@
             "texto": "Escoge el capital que desea asegurar.",
             "id": "cantcapital",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$$.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/$.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/$$$.png"
             ],
             "imgText": [
               "300.000 €",
@@ -1841,8 +1841,8 @@
             "texto": "¿Quieres incluir la cobertura de transportes?",
             "id": "coberturatrans",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
@@ -1925,15 +1925,15 @@
     "descripcion": "El seguro de protección de directivos es un seguro de tipo personal que se encarga de proteger de forma integral al asegurado de riesgos como: accidentes personales, cancelación de saldos pendientes, ...",
     "paraQuien": "El seguro está encaminado a proteger a Altos Cargos, Administradores y Directivos de diferentes empresas.",
     "porQue": "Son muchas las ventajas de las que puede disfrutar una persona si contrata el seguro: <ul><li>Es un seguro muy completo con un amplio abanico de coberturas y capitales asegurados adaptados a las necesidades del asegurado.</li><li>Cobertura 24 horas y con ámbito mundial.</li><li>Asesoramiento directo y personalizado por parte de un gran equipo de expertos.</li><li>Dispone de unas coberturas complementarias de Responsabilidad de Administradores y Directivos (D&O).</li><li>Existe la posibilidad de elegir el capital que mejor se adapte a sus necesidades.</li></ul> Muchas veces las empresas tienen trabajadores que son piezas fundamentales para el desarrollo de la actividad. Por ello, se podría ofrecer este tipo de seguro como un beneficio o plus por su trabajo de forma que tenga más razones por las que quedarse en la empresa, sintiéndose así más valorado.",
-    "coberturasDestacadas": "<ul><li>Accidentes personales</li><li>Protección de estudios para hijos menores</li><li>Cancelación de saldos pendientes</li><li>Asistencia psicológica</li><li>Asistencia de viaje</li></ul> <img src='https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
+    "coberturasDestacadas": "<ul><li>Accidentes personales</li><li>Protección de estudios para hijos menores</li><li>Cancelación de saldos pendientes</li><li>Asistencia psicológica</li><li>Asistencia de viaje</li></ul> <img src='https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg' class='responsive' />",
     "casoReal": "Un directivo sufrió un accidente automovilístico en un viaje de negocios, ante el terrible accidente tuvo que ir al hospital. Días después, tras darle el alta, se vio tan afectado que necesitaba asistencia psicológica. El seguro de Protección de directivos le cubrió tanto la asistencia en su viaje de negocios como el accidente y la asistencia psicológica.",
     "tipo": "seguro",
-    "modalidades": "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg",
+    "modalidades": "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/modalidadesProteccionDirectivos.svg",
     "typeForm": "g2vk3uv0",
     "identificador": "14",
     "imagenes": [
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg",
-      "https://insurceo.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg"
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/proteccionDirectivos.svg",
+      "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productosBlanco/ProteccionDirectivosBlanco.svg"
     ],
     "formulario": [
       {
@@ -2039,8 +2039,8 @@
             "texto": "¿Tomador y asegurado son personas diferentes? ",
             "id": "tomador",
             "img": [
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
-              "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/tick.png",
+              "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/productos/formularios/cruz.png"
             ],
             "imgText": [
               "Sí",
