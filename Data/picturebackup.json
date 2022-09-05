@@ -1,0 +1,176 @@
+[
+    {
+        "pregunta_Daños_Materiales": [
+            {
+                "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
+                "texto": "Régimen",
+                "id": "regimen",
+                "img": [
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Building.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/BuildingForRent.png"
+                ],
+                "imgText": [
+                    "Inquilino",
+                    "Propietario"
+                ],
+                "imgId": [
+                    "regimen-inquilino",
+                    "regimen-propietario"
+                ],
+                "preguntasDependientes": [
+                    {
+                        "dependentId": "regimen-inquilino",
+                        "condicion": "selected",
+                        "tipoPregunta": "textoLibre",
+                        "id": "regimen-text",
+                        "texto": "Obras de reforma"
+                    }
+                ]
+            },
+            {
+                "tipoPregunta": "pictureOptions",
+                "optionType": "inclusive",
+                "texto": "Indica que medidas contra incendio y robo tienes",
+                "id": "rob&firemesures",
+                "img": [
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Extinguisher.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Hose.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Window.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Alarm.png"
+                ],
+                "imgText": [
+                    "Extintores",
+                    "BIES",
+                    "Huecos de fácil acceso protegido (cierre metálico, rejas, ...)",
+                    "Alarma conectada a central"
+                ],
+                "imgId": [
+                    "rob&firemesures-Extintor",
+                    "rob&firemesures-BIES",
+                    "rob&firemesures-Huecos",
+                    "rob&firemesures-Alarma"
+                ],
+                "preguntasDependientes": []
+            }
+        ]
+    },
+    {
+        "pregunta_Salud_Colectivos": [
+            {
+                "dependentId": "retribucion-Si",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
+                "id": "retribucionsi",
+                "texto": "¿Con qué modalidad de Asistencia Sanitaria contáis actualmente?",
+                "img": [
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                ],
+                "imgText": [
+                    "Cuadro Médico + Reembolso.",
+                    "Cuadro Médico sin Copago.",
+                    "Cuadro Médico con Copago."
+                ],
+                "imgId": [
+                    "reembolossi",
+                    "sicopagosi",
+                    "nocopagosi"
+                ]
+            },
+            {
+                "dependentId": "retribucion-No",
+                "condicion": "selected",
+                "tipoPregunta": "pictureOptions",
+                "optionType": "exclusive",
+                "id": "retribucionno",
+                "texto": "¿A qué modalidad de Asistencia Sanitaria te gustaría acceder?",
+                "img": [
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicocopago.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicoreembolso.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/medicosincopago.png"
+                ],
+                "imgText": [
+                    "Cuadro Médico + Reembolso.",
+                    "Cuadro Médico sin Copago.",
+                    "Cuadro Médico con Copago."
+                ],
+                "imgId": [
+                    "reembolosno",
+                    "sicopagono",
+                    "nocopagono"
+                ]
+            }
+        ]
+    },
+    {
+        "pregunta_Flota_Vehiculos": [
+            {
+                "tipoPregunta": "pictureOptions",
+                "optionType": "inclusive",
+                "texto": "Indícanos de qué tipo está compuesta tu flota de vehículos",
+                "id": "composicion",
+                "img": [
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Car.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/WhiteCar.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Truck.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/CementTruck.png",
+                    "https://insurceo.s3.eu-west-1.amazonaws.com/web/productos/formularios/Pen.png"
+                ],
+                "imgText": [
+                    "Turismos",
+                    "Furgonetas",
+                    "Camiones",
+                    "Vehículos Industriales",
+                    "Otro"
+                ],
+                "imgId": [
+                    "turismo",
+                    "furgoneta",
+                    "camion",
+                    "industrial",
+                    "otro"
+                ],
+                "preguntasDependientes": [
+                    {
+                        "dependentId": "turismo",
+                        "condicion": "selected",
+                        "tipoPregunta": "textoLibre",
+                        "id": "turismo-text",
+                        "texto": "Indícanos el número de turismos que tienes."
+                    },
+                    {
+                        "dependentId": "furgoneta",
+                        "condicion": "selected",
+                        "tipoPregunta": "textoLibre",
+                        "id": "furgoneta-text",
+                        "texto": "Indícanos el número de furgonetas que tienes."
+                    },
+                    {
+                        "dependentId": "camion",
+                        "condicion": "selected",
+                        "tipoPregunta": "textoLibre",
+                        "id": "camion-text",
+                        "texto": "Indícanos el número de camiones que tienes."
+                    },
+                    {
+                        "dependentId": "industrial",
+                        "condicion": "selected",
+                        "tipoPregunta": "textoLibre",
+                        "id": "industrial-text",
+                        "texto": "Indícanos el número de vehículos industriales que tienes."
+                    },
+                    {
+                        "dependentId": "otro",
+                        "condicion": "selected",
+                        "tipoPregunta": "textoLibre",
+                        "id": "otro-text",
+                        "texto": "Indícanos el número de los otros vehículos que tienes."
+                    }
+                ]
+            }
+        ]
+    }
+]
