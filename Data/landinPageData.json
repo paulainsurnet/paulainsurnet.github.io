@@ -19,7 +19,7 @@
         "nombre": "D&O",
         "url": "window.location.href='https://cotizaciones.insurceo.com/packs/3/form'",
         "imagenes": [
-            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/landingPage/logoD&OBlanco.svg"
+            "https://insurceoweb.s3.eu-west-1.amazonaws.com/web/landingPage/DO.png"
         ],
         "id": 3
     },
