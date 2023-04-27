@@ -5,7 +5,7 @@
         "porQue": "Aparte de la obligación de tener el seguro de RC, existen varias coberturas opcionales muy necesarias para el propietario de una embarcación, que soporta muchos riesgos, como los daños que pueda sufrir nuestra embarcación, la responsabilidad por remoción de restos en caso de hundimiento o los accidentes que pudieran sufrir las personas a bordo.",
         "coberturasDestacadas": "<ul><li>Responsabilidad civil voluntaria, ampliando el limite de la RC obligatoria.</li><li>Protección jurídica.</li><li>Robo o Daños que sufra la embarcación.</li><li>Remoción de restos</li><li>Efectos personales o accesorios.</li><li>Accidentes de los ocupantes.</li><li>Asistencia náutica y gastos de remolque.</li></ul>",
         "tipo": "seguro",
-        "typeForm": "F1q5tC",
+        "typeForm": "pTrKf8Uf",
         "identificador": "1",
         "imagenes": [
             "assets/img/productos/embarcaciones.svg"
@@ -17,7 +17,7 @@
         "porQue": "Un armador soporta diferentes riesgos, como un daño sufrido por un tripulante, un vertido de combustible, una colisión, o cualquier daño que podamos ocasionar con nuestro barco. Muchos de estos riesgos no están cubiertos con el seguro de embarcación y necesitaremos un seguro complementario de P&I.",
         "coberturasDestacadas": "<ul><li>Responsabilidad por contaminación.</li><li>Responsabilidad por daños a la tripulación.</li><li> Responsabilidad por colisión, en exceso del límite de la póliza de casco, hasta 500M.</li><li>Responsabilidad por Avería Gruesa.</li></ul>",
         "tipo": "seguro",
-        "typeForm": "JZfrWT",
+        "typeForm": "pTrKf8Uf",
         "identificador": "2",
         "imagenes": [
             "assets/img/productos/PI.svg"
