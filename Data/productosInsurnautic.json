@@ -29,7 +29,7 @@
         "porQue": "Durante las travesías en el mar pueden ocurrir multitud de imprevistos que pueden complicar el viaje; un problema médico de un pasajero, una avería del motor… La necesidad de ayuda en medio del mar puede darse en cualquier momento y es necesario disponer de la asistencia necesaria para ayudarnos en situaciones de emergencia.",
         "coberturasDestacadas": "<ul><li>asta 5.000.000€ de gastos médicos y repatriación.</li><li>Hasta 25.000€ en búsqueda y rescate.</li><li>Hasta 3.000€ en cobertura a equipajes.</li><li>Posibilidad de cubrir hasta 5.000€ de fianza en caso de dañar una embarcación alquilada.</li></ul>",
         "tipo": "seguro",
-        "typeForm": "tKdsid",
+        "typeForm": "pTrKf8Uf",
         "identificador": "3",
         "imagenes": [
             "assets/img/productos/asistenciaViaje.svg"
@@ -41,7 +41,7 @@
         "porQue": "",
         "coberturasDestacadas": "<ul><li>Daños al objeto manipulado, la embarcación.</li><li> Responsabilidad Civil contractual y extracontractual.</li><li>Desarrollo de la actividad en puertos</li><li>Remoción de restos</li><li>Daños a buques.</li></ul>",
         "tipo": "seguro",
-        "typeForm": "tmeMsH",
+        "typeForm": "pTrKf8Uf",
         "identificador": "4",
         "imagenes": [
             "assets/img/productos/reparadoresNauticos.svg"
@@ -53,7 +53,7 @@
         "porQue": "",
         "coberturasDestacadas": "<ul><li>Incendio</li><li>Daños materiales.</li><li>Robo.</li><li>Daños eléctricos</li><li>Riesgos estraordinarios</li><li>Avería maquinaria</li></ul>",
         "tipo": "seguro",
-        "typeForm": "YgV5gf",
+        "typeForm": "pTrKf8Uf",
         "identificador": "5",
         "imagenes": [
             "assets/img/productos/puertosDeportivos.svg"
@@ -65,7 +65,7 @@
         "porQue": "Recomendado para: <ul><li>Operadores de terminales.</li><li> Autoridades portuarias.</li><li>Empresas de reparación de buques.</li><li> Estibadores.</li><li>Consignatarios.</li></ul>",
         "coberturasDestacadas": "",
         "tipo": "seguro",
-        "typeForm": "Cm8Tin",
+        "typeForm": "pTrKf8Uf",
         "identificador": "6",
         "imagenes": [
             "assets/img/productos/RCMaritima.svg"
@@ -77,7 +77,7 @@
         "porQue": "",
         "coberturasDestacadas": "<ul><li>Responsabilidad civil Marítima.</li><li>Responsabilidad civil General.</li><li>Responsabilidad civil Patronal.</li><li>Remoción de restos</li><li>Responsabilidad civil Embarcaciones auxiliares.</li></ul>",
         "tipo": "seguro",
-        "typeForm": "fxOvIY",
+        "typeForm": "pTrKf8Uf",
         "identificador": "7",
         "imagenes": [
             "assets/img/productos/RCPuertosDeportivos.svg"
